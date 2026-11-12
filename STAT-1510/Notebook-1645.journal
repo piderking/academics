@@ -1,0 +1,39 @@
+{
+  "id": "nb-1793044881644",
+  "title": "Untitled Notebook",
+  "paperTheme": "cream",
+  "paperStyle": "grid",
+  "pageSize": "letter",
+  "orientation": "portrait",
+  "hasRedMargin": true,
+  "lineSpacing": 34,
+  "gridSize": 28,
+  "dateCreated": "2026-10-26T20:01:21.644Z",
+  "dateModified": "2026-10-26T20:01:35.545Z",
+  "pages": [
+    {
+      "id": "page-1793044881644-7c73ovn",
+      "order": 0,
+      "width": 816,
+      "height": 1056,
+      "paperStyle": "grid",
+      "paperTheme": "cream",
+      "hasRedMargin": true,
+      "lineSpacing": 34,
+      "gridSize": 28,
+      "markups": [],
+      "strokes": [],
+      "textBlocks": [],
+      "pageLinks": [],
+      "graphs": [],
+      "matrixCards": [],
+      "regions": [],
+      "images": [],
+      "dateCreated": "2026-10-26T20:01:21.645Z",
+      "dateModified": "2026-10-26T20:01:21.645Z"
+    }
+  ],
+  "currentPageIndex": 0,
+  "invertInkForDarkMode": false,
+  "filePath": "G:\\My Drive\\Academics\\STAT-1510\\Notebook-1645.journal"
+}

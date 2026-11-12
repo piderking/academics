@@ -1,0 +1,151 @@
+Here is the detailed, timestamped transcript for the video:
+
+[00:00] Hi, welcome back. Thanks everyone for engaging last week, that was great. I'm sorry about the quiz confusion, but hopefully I will not do that again. But this week, we are getting into the meat of things a little bit. This week we're going to start from level zero. How can we study the idea of Asian American if we do not understand it within a larger structure of race?
+
+[00:32] So we're going to answer the question today: What is race? And I could give you a definition, but I think it's also important to show you, because race is about social constructs, right? It's about perception, ideation, relationships between people, and it's about material resources and exploitation sometimes of power.
+
+[01:00] Power dynamics are a huge part of racism, and this kind of power can be seen through a variety of ways—pretty often through violence, or warfare, or certain forms of genocide.
+
+[01:16] So we're going to this week look at the idea of relations between these labeled groups of people. Naming is included, and showing how races are ordered is also important.
+
+[01:35] So what I mean by that is that it is just a term, right? Asian American, or white, or any other kind of racial label, but that term means something and holds a deep historical process. There is a history that is carried along with the term, whether we like it or not.
+
+[01:57] In the United States, the idea of racism specifically is centered upon anti-blackness. And this is important in understanding race relations in the present and how we kind of are understanding various facets of race: so the labels, the socioeconomic relationships, and the use of power.
+
+[02:24] History often, I feel, is taught as a compartmentalized structure, something that, you know, can be put in a box and then put away. Timelines are very clear about this, right? Something happens, and then it's over. Something else happens, and then it's over. And that's not necessarily true if we really think about the idea of time.
+
+[02:48] History is very much affecting what we do in the present, right? For example, I mean, very, you know, basic, blatant examples: a war, World War I, World War II. Just because a treaty was signed does not mean the effects of the war is also contained within those years. The effects have stretched out arguably until today, and so how can we understand the present without understanding the past?
+
+[03:21] So because of this understanding of history and the fact that the US has been primarily built with the notion of anti-blackness, it's hard to box that into the past and then say that the present is a different time. Of course, our collective memories are very short. I think, you know, people have forgotten about COVID, for example, even though it was a mere five years ago.
+
+[03:59] And that may be on purpose through our various education systems, through how we understand history, and through how, as a collective, we understand the past and its relation to the present.
+
+[04:17] So race is not just a label of who gets to be who or what they look like, or a biological determination, or those, you know, 23andMe—like how much percentage are you. Those are statistics and playing with numbers. Race is a historical process where these abstract names are grounded in real material consequences and real historical processes. So real things that affect our material reality and real things that happen that still affect the present.
+
+[04:57] It didn't come out of nowhere, and it's not just one person defining the idea of race or Asian American, and it's not just a definition necessarily that Dictionary.com gets to dictate. It's a process, and it's important to understand these processes, to think about the definitions; otherwise, essentially, people are arguing about nothing, right? An abstract and nothing tangible.
+
+[05:25] Race is the product of processes of racialization that occurs structured through racial hierarchy that maintains whiteness at the top of the socio-political and economic order, and blackness at the bottom as a constructed order, and not a natural order. So anti-blackness is not just part of human nature, it's taught.
+
+[05:50] So we see this blatantly in Safiya Umoja Noble's work, who is a professor at UCLA in the Information Studies Department and Gender Studies Department. She also works at the UCLA Center—a co-founder and co-director of the UCLA Center for Critical Internet Inquiry. And she published this book a few years—I mean, maybe almost 10 years ago—called *Algorithms of Oppression*.
+
+[06:16] And if you are in any way working with computers, it's definitely a good book to read through, I would say, especially the chapter that we read, and maybe the chapter before and the introduction.
+
+[06:30] So this book, if you haven't read the chapter that we're supposed to be reading today, which is Chapter 2, please go read that before you continue on with our little engagement video recording.
+
+[06:49] So we read Chapter 2, which is titled "Searching for Black Girls," and this chapter specifically explains her research in how money, ads, sex, and power and profit have dictated the algorithm in something like Google Search, which often we just take as a neutral entity, right? Especially you can see that in the phrase, "Just Google it," assuming that whatever is going to be coming up at the top is something legitimate or correct, or not affected by money.
+
+[07:37] And she writes, "I resist the notion of essentializing the racial and gender binaries. However, I do acknowledge that the discursive existence of these categories—Black, and women/girls—is shaped in part by power relations in the United States that tend to essentialize and reify such categories."
+
+[07:59] So she's trying here to underline how the idea of race often does essentialize an individual. I may be Asian American myself, but that doesn't mean I'm just doing stereotypical things—I'm like constantly just eating rice and doing math or whatever other stereotypes happen in terms of what pops up in your head when you hear the term Asian American.
+
+[08:24] However, even though she doesn't want to essentialize, she does acknowledge that this kind of flattening of a person with this label happens, and that flattening is really important.
+
+[08:39] So Umoja Noble continues, "Therefore, studying blackness is in part guided by historical construction against whiteness as a social order, and those who have power given their proximity to it. I make comparisons in this study of blackness to whiteness only for the purpose of making more explicit discursive representations of Black girls' and women's identities against an often unnamed and unacknowledged background of a normativity that is structured around white Americanness."
+
+[09:11] And this is probably familiar to you. You probably have already learned or already understood at a basic level, or at a complex level or a very complex level, that a lot of the neutrality, especially in our histories or anything that is purported as normal, is centered around white Americanness.
+
+[09:37] And I think when this book came out, which was in around 2016, applying this idea of racism to technology, which as a machine was often considered very neutral, was somewhat of a new idea. And so, you know, I think she explains it and she shows it, and you can see in the pictures the Google searches look a lot different from the Google searches now, right? The Google searches now, you can't even go to page 10 anymore. You kind of are stuck on the first page of results, and I think you can see how that is a part of the system that is responding to the critique that she's talking about in her book.
+
+[10:35] So Umoja Noble writes more, "It does not matter whether one believes in race or not, because it is a governing paradigm that structures social logics. Race is a hierarchical system of privilege and power that is meted out to people on the basis of perceived phenotype, inheritance, and ethnic groups work within the already existent racial hierarchy to achieve more power, often at the expense of other ethnic groups."
+
+[11:04] So I think this is important in how she's trying to describe the process of what is happening during a Google search, or what did happen during a Google search 10 years ago.
+
+[11:18] And it is important to bring up the term white supremacy, which in my experience can bring up sensitive feelings, but it is a description of a system that naturalizes and neutralizes the idea of whiteness. It does not mean that each white person is, you know, a reincarnation of evil, but it does mean that whiteness structures affect those who are white as well.
+
+[11:49] You can maybe compare it to patriarchy, where the binary standards of gender affect every single person, no matter what gender you are, it just affects people a little bit differently.
+
+[12:03] So white supremacy in this understanding, and kind of the white Americanness and anti-blackness—these are all terms that are more specific to the US context than racism. And so it is sometimes more helpful to be specific rather than be vague.
+
+[12:25] So Noble says, "It would be more potent and historically accurate to think about white supremacy as the dominant lens and structure through which sense-making of race online can occur. So you cannot," she says, "you cannot have social justice and a politics of recognition without an acknowledgment of how power, often exercised through white supremacy and sexism, can skew the delivery of credible and representative information. This idea offers another vantage point from which to understand the ways that representation and misrepresentation in media are expression of power relations."
+
+[13:07] So if you use social media platforms, you've probably experienced your own algorithm, right? People say that they are on this side of TikTok, that side of TikTok, the For You page is personalized.
+
+[13:23] However, even if you experience your own algorithm, the foundation has still been built by, you know, some white dudes not that long ago. Right? So you have your own apps on an iPhone, that's your personalized page, but you still have an iPhone. The structure of the digital world is still dependent on one viewpoint that is often seen as neutral.
+
+[13:52] Noble also says, "Whiteness and maleness in the domain of digital technology, and as a presupposition for the prioritization of resources, content, and even design of information and communication technologies..."
+
+[14:08] So in the chapter that we read, she talks about how a lot of the search results for Black women or Black girls, or Black students, or anyone who isn't white, basically, has shown racist images as the search result. If you Google today any of the terms that she has described, it is different.
+
+[14:42] Is it accurate? Could also be pretty debatable.
+
+[14:50] But it has changed in part because of advocacy and the discussions in the technology sphere in Silicon Valley that are similar to this book.
+
+[15:01] And it's important to note that even though Google, when shown their faults in terms of the racist images that come up in search engines, Google explained that it was a glitch. And I think part of Umoja Noble's argument that is really important to underline is that it's not a glitch, it's not an accident, but it is a part of the system.
+
+[15:33] These digital spheres that have reflected and been built upon white supremacy—remember that historical process in the United States—does not simply get rearranged because of representation. I mean, Google fired Timnit Gebru over 10 years ago, basically, for her research. She was an engineer, researcher, scholar. For her research that proved bias against those who were not white, and her research specifically looked at facial recognition, which, you know, we can obviously see or could be a joke or a meme, in things like motion sensors or Alexa not being able to understand accents.
+
+[16:22] And so we can see even how algorithms are not neutral, and how this was a big talking point over 10 years ago.
+
+[16:36] Umoja writes, Noble writes, "Control over community identities are shifting as private companies on the web are able to manage and control definitions. And the very concept of community control on the web is increasingly becoming negligible as infusions of private capital into the infrastructure of the internet has moved the US-based web from a state-funded project..." because the internet was originally a state-funded project, in the pursuit of warfare and militarism and weaponry "...a state-funded project to an increasingly private-controlled communication sphere."
+
+[17:27] And she also writes, "This tradition of defining white and Asian male dominance in tech industry as a matter of meritocracy is buttressed by the myths of Asian Americans as a model minority."
+
+[17:42] So there is a mention of Asian Americans as part of the—I mean, I think it's like a classic, I don't know if you all are old or young enough to have been around or been in the cultural zeitgeist conversation during the *Get Out* moment, where it's like that picture of the white family and there's like one Asian guy there. And she's pointing this out, and how this is kind of the structure of how merit is considered and neutralized, even when it is a part of a larger structure, the system and not the glitch.
+
+[18:25] And we can show that this algorithm, the Google problem, is a continuation of a historical process and not necessarily something new that developed from technologies.
+
+[18:39] So the other thing that we were supposed to read today, and if you haven't read it, go look for it, look around, is this other idea of how race affects organizing information.
+
+[18:58] Sanford Berman was a librarian who has partly made it his life work to change the idea of subject headings. You may have never heard of the Library of Congress subject headings—I didn't really hear about it until I was past college—but it's basically the same kind of thing as the Dewey Decimal System, if you have heard of that. It's how your library or knowledge is organized so that people can find it in a more efficient and faster method.
+
+[19:31] So Berman, you can see him in the cover of the book that we looked at. So Berman was a librarian—he's still alive—and he made it his life work to argue against the idea of subject headings, partly because, as a librarian, a lot of librarians that were coming out of the '50s and the '60s were sent overseas to various United States Information Agency centers—agencies, I guess—and kind of spreading library systems to other places overseas, especially in military bases.
+
+[20:26] And he was sent to Zambia, where he conferred with other scholars there who told him that the headings were chauvinistic. So Berman, though he's the one who is often credited as the man who champions justice in the Library of Congress subject headings, he himself was taught by a Central African scholar.
+
+[20:48] And this is no slight to Berman because he has literally spent his life trying to make sure that knowledge organization is a more just place, but it does show the kind of naturalization of the white man over the Black scholar, and how he is lauded in the United States and not really given the—I mean, I'm sure he does give it while he is kind of talking about his experience and he cites him in this book, as you saw later in the pages. I think it's in the preface. But Berman is the one who is known in library world.
+
+[21:39] So you can see this idea of prejudices and antipathies, and how that changes the way that we understand information.
+
+[21:54] You can see also his life work on this website. There's a lot of, I mean, if this is of any interest, his website is sanfordberman.org. And in April 2022, this is what he has: "Over the past 19 years, I've recommended dozens of new and revised subject headings to the Library of Congress."
+
+[22:16] And why is this important? I think when you have read the selections, obviously it is shown as important as headings such as "Yellow Peril" has been removed or changed. And you can see how if you put everything that is about Asian Americans, for example, under the subject heading of "Yellow Peril," it is reinforcing the idea of white supremacy, right, in that system.
+
+[22:46] And you can see how this matters not only in terms of naming, but also in terms of material relations, how power is shown within this kind of scorecard.
+
+[23:05] You can see, let me look at, "Anti-racism" as a subject heading was not put in until 2006.
+
+[23:19] The idea of homosexuality was under basically pathological illness until I don't know, maybe 40 years ago.
+
+[23:32] And then you can also see things like the Tulsa Massacre in Oklahoma in 1921. It was named as a "Tulsa Race Riot," which basically deeply obscures the idea of what was happening there, and rather than a riot, it's more aptly termed as a massacre. And so he got that changed.
+
+[24:08] And then you can see also here, "Japanese Americans Mass Internment" replaced "Japanese Americans Evacuation and Relocation."
+
+[24:19] And even though it is words, it is words reflecting material realities and historical processes. Internment is not the same as an evacuation and relocation.
+
+[24:39] There also was a big push in 2018-19 from college students to change the term "illegal aliens" to "undocumented immigrants."
+
+[24:55] And so, you know, this kind of stuff is not something that most people maybe think about all too much, including librarians. However, these subject headings also exert quite powerful ways of ordering the world. And if one has a lot of books or a lot of information, it is important to order them in a certain way to know where they are, or find related materials, or understand knowledge as an organization that is, I don't know, like related to each other, I guess, is what I'm saying.
+
+[25:36] And so I encourage you, if you never have, to wander the stacks of the library to not only find one thing, but see what is near it. That was kind of the cool part about the library, where there are things that are related and sometimes not related depending on your perspective, and see how that material is arranged in relation to each other.
+
+[26:02] And so this is a historical idea, I guess, because people maybe do not necessarily talk about Library of Congress subject headings as much as Google searches, but I think it is obviously very clearly related and how the thing that you have access to the most is dependent upon these racial, and social, and economic structures.
+
+[26:36] And even though the Library of Congress subject headings is literally a part of the state, it's part of the government, it's part of the Library of Congress, it's funded by it, and Library of Congress decides all of these ideas and terms, or they can vote yes or no, basically, it too obviously has a bias towards white supremacy.
+
+[27:03] And if you've used or looked at the Dewey Decimal System, Melvil Dewey was a problematic figure in many ways—super misogynistic, racist, anti-Semite. You know that basically all of the way that our knowledge is organized is not with a lens of equity.
+
+[27:31] It's a quiet execution of power to center whiteness in how knowledge is made and organized, and specifically, especially in the Library of Congress, it prioritizes Christianity and the Western Hemisphere. Everything else is in like tiny subject headings, whereas there is a lot of time, effort, and space given to Americanism, even though it's not necessarily what's the most emphasized.
+
+[28:13] So I guess the other thing that I'll note is that it's important that the indexing of the Library of Congress subject headings obviously reflected the United States national interests. The thing that is different about the *Algorithms of Oppression* indexing is that, as you read, it reflected the sexualized young Black girls at the automated, basically, free indexing from porn.
+
+[28:51] And that, I think, is something to consider further in terms of like how white supremacy, gender, class, and social economies—like how people really understand people's value and worth—matter.
+
+[29:26] It's difficult to figure out how to organize information, because there's so much now available and it's even easier to access. But we might be used to categorization because it's chosen through us, it's chosen for us through algorithms. But the hand that determines these categories is less visible than, you know, the Library of Congress, though just as prominent. And it's something that has shaped and defined the idea of race.
+
+[30:13] I mean, if you have a collection of anything, right, how do you organize it, and what does it reflect, and how does it reflect that, and what does the collection represent? And it's not a judgment or character kind of "you must be good" or "you must be bad" kind of idea. It's a practice to really think about the assumptions that are in our organizing world, our world in general, and then question those assumptions.
+
+[30:48] So this is not the whole of Ethnic Studies, this idea of who gets what and how can representation be better, but it is important to realize that race is important and an important component of many things. And it's not necessarily one individual's problem to change the world. A Black president is not going to change anti-blackness in the country necessarily, but it is important to see how race affects things that seem natural, neutral, or otherwise pretty objective.
+
+[13:30] So this week, your assignment is to look through the Library of Congress subject headings, and they are a little bit confusing. Perhaps search your favorite hobby or your discipline or your major, or search for Asian American, and just explore a little bit of how this is organized.
+
+[31:54] You can see I've shared the Library of Congress subject headings, and if you want a more thorough discussion of it, they have this "Introduction to Library of Congress Subject Headings," but they also have individual PDF files, and you can see basically how everyone is categorized, and where things fall in terms of how knowledge is ordered.
+
+[32:30] See if there's anything you would change, see if anything there you would not change. Perhaps, you know, "Yellow Peril" is no longer a subject heading, but you can imagine what was underneath the idea of "Yellow Peril," and you can imagine how, basically, what's constituted as like a racial slur was the normative heading of how to find knowledge about that group of people, place, idea, understanding.
+
+[33:14] So I think that is what we got for this week. Next week, we're going to look at the origins of the term Asian American, which does not have a long history. It was first really spread basically in the late 1960s—1969, '68, '70.
+
+[33:45] And of course, there were Asian Americans before that, we'll talk about that the week after. But the racialization of Asian Americans is a relatively newer set of relations, especially with the myth of the model minority, and the warfare that the United States has placed upon a lot of Asia, especially Southeast Asia during the Cold War, so during the 20th century.
+
+[34:14] And the racialization of Asian Americans is and still ingrained in this larger system of white supremacy and anti-blackness in the United States. And you saw that a little bit, right, of how all of these relations are connected to each other in the Third World Liberation Front newsletter.
+
+[34:38] So that is it for me for this week, but next week, we're going to go through what I just said. All right, let me know if you have any questions or comments, and excited to see you guys talk to each other, hopefully, kind of virtually or non-virtually, and what you find in the Library of Congress subject headings.

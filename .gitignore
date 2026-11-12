@@ -1,0 +1,34 @@
+﻿# Surface Notebooks gitignore
+.cache/
+temp_uploads/
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+.notebook_index.db*
+.env
+.academic_engine/
+.agents/
+
+# Google Drive Cloud Pointer files
+*.gdoc
+*.gsheet
+*.gslides
+*.gdraw
+*.gform
+*.gshortcut
+*.gprj
+*.gtable
+*.gmap
+
+# Large media & datasets
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.jmp
+*.zip
+*.tar
+*.gz
+*.iso

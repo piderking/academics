@@ -1,0 +1,2889 @@
+{
+  "decks": [
+    {
+      "id": "bot-1121-midterm-2",
+      "course": "BOT-1121",
+      "title": "BOT-1121: Midterm #2 Master Deck (Lectures 10–18)",
+      "description": "Comprehensive, student-friendly study deck for BOT 1121 Midterm #2 directly grounded in Sean Ryan's lecture slides (Lectures 10 to 18). Covers Ferns, Gymnosperms, Flowers, Fruits & Seeds, Fig Biology, Water & Sugar Transport, and Photosynthesis Parts 1 & 2.",
+      "source": "Sean Ryan Lecture Slides (Lectures 10–18) & Cal Poly Herbarium / Lab Practicals",
+      "flashcards": [
+        {
+          "id": "bot-1121-m2-c01",
+          "front": "What are the main parts of a fern plant (sporophyte)?",
+          "hint": "Think of the leaf, the leaflets, the stalk, the central axis, and the underground stem.",
+          "back": "The main parts of a fern plant:\n\n• **Frond**: The entire fern leaf.\n• **Blade**: The leafy, expanded part of the frond.\n• **Pinna**: An individual leaflet of the blade (plural: *pinnae*).\n• **Rachis**: The central axis / stem running through the leafy blade.\n• **Stipe**: The stem-like stalk below the blade connecting it to the rhizome.\n• **Rhizome**: The horizontal underground stem that produces roots and new fronds.\n• **Fiddlehead (Crozier)**: A young coiled frond that unrolls as it grows (*circinate vernation*).",
+          "image": "images/diagrams/fern_structure.svg",
+          "imageDescription": "Diagram of fern anatomy showing the frond, blade, pinna, rachis, stipe, rhizome, and developing fiddlehead.",
+          "citation": "BOT 1121 Lec 10, Slide 43-44",
+          "tags": [
+            "ferns",
+            "anatomy",
+            "frond",
+            "rhizome",
+            "fiddlehead"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c02",
+          "front": "On a fern gametophyte, what are an antheridium and an archegonium?",
+          "hint": "One makes male gametes (sperm) and the other makes the female gamete (egg).",
+          "back": "On the tiny, heart-shaped fern gametophyte (prothallus):\n\n• **Antheridium**: The male reproductive organ that produces many swimming **sperm**.\n• **Archegonium**: The female reproductive organ that produces a single **egg**.\n• **Fertilization**: Fern sperm have flagella and require an external film of **liquid water** to swim to the archegonium and fertilize the egg!",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_10_p32_2.jpeg",
+          "imageDescription": "Fern gametophyte (prothallus) slide showing archegonia near the notch and antheridia near the rhizoids.",
+          "citation": "BOT 1121 Lec 10, Slide 32 & 39",
+          "tags": [
+            "ferns",
+            "gametophyte",
+            "antheridium",
+            "archegonium",
+            "reproduction"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c03",
+          "front": "What is a sorus and what is a sporangium on a fern?",
+          "hint": "Look at the brown clusters on the underside of a fern frond.",
+          "back": "• **Sporangium**: A tiny capsule or sac that produces spores via meiosis.\n• **Sorus** (plural: **sori**): A cluster of many sporangia on the underside of a fern frond.\n• **Indusium**: A small protective flap of tissue covering the sorus in many fern species.\n• **Ploidy**: The frond and sorus belong to the **diploid sporophyte (2n)** generation.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_10_p31_0.jpeg",
+          "imageDescription": "Cross section of a fern sorus showing stalked sporangia clustered under a protective indusium.",
+          "citation": "BOT 1121 Lec 10, Slide 31 & 36",
+          "tags": [
+            "ferns",
+            "sorus",
+            "sporangium",
+            "indusium",
+            "spores"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c04",
+          "front": "What is the annulus on a fern sporangium, and what does it do?",
+          "hint": "A ring of thickened cells that acts like a tiny catapult.",
+          "back": "• **What it is**: The **annulus** is a curved ridge or ring of thickened cells running along the outer rim of the sporangium.\n• **What it does**: It acts like a **catapult**! As water evaporates from these cells, surface tension pulls them back; when the tension suddenly snaps, the sporangium flings haploid spores into the air to be dispersed by the wind.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_10_p31_0.jpeg",
+          "imageDescription": "Close-up of a fern sporangium showing the prominent crest of thickened annulus cells.",
+          "citation": "BOT 1121 Lec 10, Slide 31",
+          "tags": [
+            "ferns",
+            "annulus",
+            "sporangium",
+            "spore dispersal"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c05",
+          "front": "What is an herbarium, and what essential info must be on an herbarium label?",
+          "hint": "Think of a botanical library of dried, pressed plants (like Cal Poly's Hoover Herbarium).",
+          "back": "• **Herbarium**: A scientific library or museum collection of dried, pressed, and mounted plant specimens used for research.\n• **Required on an Herbarium Label**:\n  1. **Plant Scientific Name** & Author (e.g., *Eschscholzia rhombipetala*)\n  2. **Location**: Precise geographic locality, county, state, GPS coordinates, elevation\n  3. **Habitat**: Surrounding plant community, soil, slope, aspect\n  4. **Date**: When the specimen was collected\n  5. **Collector**: Name of the collector and their unique collection number",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_10_p5_0.jpeg",
+          "imageDescription": "Herbarium sheet from Cal Poly Hoover Herbarium showing pressed plant and standard metadata label.",
+          "citation": "BOT 1121 Lec 10, Slide 4-6",
+          "tags": [
+            "herbarium",
+            "voucher label",
+            "taxonomy",
+            "collecting"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c06",
+          "front": "What does 'gymnosperm' mean, and how do their seeds differ from angiosperms?",
+          "hint": "Gymno = naked, sperm = seed.",
+          "back": "• **Meaning**: Gymnosperm literally means **\"naked seed\"**.\n• **Key Difference**:\n  - **Gymnosperms**: Seeds are \"naked\"—they sit exposed on cone scales (not inside an ovary or fruit).\n  - **Angiosperms**: Seeds develop enclosed inside an ovary that ripens into a fruit.\n• **Nutrition**: In gymnosperms, food stored for the embryo comes from the haploid (1n) female gametophyte (unlike the 3n endosperm of angiosperms).",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_11_p6_0.jpeg",
+          "imageDescription": "Diagram comparing gymnosperm naked seeds on cone scales vs angiosperm seeds inside fruit.",
+          "citation": "BOT 1121 Lec 11, Slide 5-7",
+          "tags": [
+            "gymnosperms",
+            "naked seed",
+            "cones",
+            "ovary"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c07",
+          "front": "What are the four living groups of gymnosperms?",
+          "hint": "Conifers are the biggest group; name the other three living divisions.",
+          "back": "The four living groups of gymnosperms:\n\n1. **Conifers (Pinophyta)**: Pines, redwoods, firs, spruces, cedars (most abundant group).\n2. **Cycads**: Palm-like plants with large cones; mostly tropical and subtropical.\n3. **Ginkgo**: Only one living species (*Ginkgo biloba*).\n4. **Gnetophytes**: Bizarre plants with vessel elements, including *Ephedra* (Mormon tea) and *Welwitschia*.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_11_p3_0.jpeg",
+          "imageDescription": "Phylogeny showing the four gymnosperm lineages: Conifers, Cycads, Ginkgo, and Gnetophytes.",
+          "citation": "BOT 1121 Lec 11, Slide 3 & 5",
+          "tags": [
+            "gymnosperms",
+            "conifers",
+            "cycads",
+            "ginkgo",
+            "gnetophytes"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c08",
+          "front": "What does dioecious mean, and which gymnosperms are dioecious?",
+          "hint": "Dioecious means 'two houses' — separate male and female trees.",
+          "back": "• **Dioecious**: Male and female reproductive structures are on **separate individual plants** (you have male trees and female trees).\n• **Examples**:\n  - ***Ginkgo biloba***: Male trees produce pollen cones; female trees produce smelly seeds.\n  - **Cycads**: Separate male cone-bearing and female cone-bearing plants.\n• *(In contrast, **monoecious** plants like pines have male cones and female cones on the same tree).* ",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_11_p4_0.jpeg",
+          "imageDescription": "Diagram showing separate male pollen cones and female seed cones.",
+          "citation": "BOT 1121 Lec 11, Slide 17 & 27",
+          "tags": [
+            "gymnosperms",
+            "dioecious",
+            "monoecious",
+            "reproduction"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c09",
+          "front": "What are the unique traits of Ginkgo biloba (Maidenhair tree)?",
+          "hint": "Living fossil, fan-shaped leaves, smelly female seeds.",
+          "back": "Key characteristics of ***Ginkgo biloba***:\n\n• **Living Fossil**: Only surviving species in its entire phylum (native to Asia).\n• **Leaves**: Unique fan-shaped, two-lobed leaves with dichotomously branching veins.\n• **Dioecious**: Separate male and female trees.\n• **Smelly Seeds**: The outer fleshy seed coat produces **butyric acid** when ripe, giving off an odor of rancid butter or vomit!",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_11_p15_0.jpeg",
+          "imageDescription": "Fan-shaped leaves of Ginkgo biloba displaying dichotomous parallel venation.",
+          "citation": "BOT 1121 Lec 11, Slide 14-17",
+          "tags": [
+            "ginkgo",
+            "living fossil",
+            "fan leaves",
+            "butyric acid"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c10",
+          "front": "What adaptations do conifer needles have for cold winters and drought?",
+          "hint": "Think about needle shape, waxy coat, stomata position, and sap/resin.",
+          "back": "Conifer needle adaptations to conserve water and survive extreme cold:\n\n• **Needle Shape**: Small surface area reduces water loss and easily sheds heavy snow.\n• **Thick Waxy Cuticle**: Waterproof outer coating prevents drying out.\n• **Sunken Stomata**: Stomatal pores are tucked into recessed pits to protect against drying winds.\n• **Resin Ducts**: Produce sticky resin that deters insects, seals wounds, and resists freezing.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_11_p35_0.jpeg",
+          "imageDescription": "Cross section of a pine needle showing thick cuticle, sunken stomata, and resin canals.",
+          "citation": "BOT 1121 Lec 11, Slide 26 & 35",
+          "tags": [
+            "conifers",
+            "needles",
+            "adaptations",
+            "cuticle",
+            "resin ducts"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c11",
+          "front": "What are the four whorls of a flower from outermost to innermost?",
+          "hint": "Sepals, petals, male organs, female organs.",
+          "back": "The 4 concentric whorls of a flower:\n\n1. **Calyx (Sepals)**: Outermost whorl; green and leaf-like; protects flower bud before opening.\n2. **Corolla (Petals)**: Second whorl; often brightly colored to attract pollinators.\n3. **Stamens (Androecium)**: Third whorl; male reproductive organs that produce pollen.\n4. **Carpels / Pistil (Gynoecium)**: Innermost whorl; female organ containing ovules that develop into seeds.",
+          "image": "images/diagrams/flower_structure.svg",
+          "imageDescription": "Diagram of a complete flower detailing the four concentric whorls: calyx, corolla, androecium, and gynoecium.",
+          "citation": "BOT 1121 Lec 12, Slide 10",
+          "tags": [
+            "flowers",
+            "whorls",
+            "calyx",
+            "corolla",
+            "stamen",
+            "carpel"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c12",
+          "front": "What are the parts of a stamen (male) and a carpel (female)?",
+          "hint": "Stamen = pollen sac + stalk. Carpel = sticky top + neck + swollen base.",
+          "back": "• **Stamen (Male Organ)**:\n  - **Anther**: Top sac where pollen grains are produced.\n  - **Filament**: Slender stalk holding up the anther.\n\n• **Carpel / Pistil (Female Organ)**:\n  - **Stigma**: Sticky top surface that captures pollen.\n  - **Style**: Long neck or tube connecting stigma to ovary.\n  - **Ovary**: Swollen base containing **ovules** (ovules become seeds; the ovary becomes fruit).",
+          "image": "images/diagrams/flower_structure.svg",
+          "imageDescription": "Anatomy of the stamen (anther, filament) and carpel (stigma, style, ovary with ovules).",
+          "citation": "BOT 1121 Lec 12, Slide 10 & 20-22",
+          "tags": [
+            "stamen",
+            "anther",
+            "filament",
+            "carpel",
+            "stigma",
+            "style",
+            "ovary"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c13",
+          "front": "What is the difference between Complete vs Incomplete, and Perfect vs Imperfect flowers?",
+          "hint": "Complete is about whorls; Perfect is about sex organs (stamens & carpels).",
+          "back": "• **Complete Flower**: Has all **4 whorls** (sepals, petals, stamens, and carpels).\n• **Incomplete Flower**: Missing **one or more** of the 4 whorls (e.g., lacks petals).\n\n• **Perfect Flower**: Has **both** male (stamens) and female (carpels) parts (bisexual).\n• **Imperfect Flower**: Has only **one sex**:\n  - *Staminate*: Has stamens only (male flower).\n  - *Pistillate*: Has carpels/pistil only (female flower).",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_12_p16_0.jpeg",
+          "imageDescription": "Comparison chart illustrating complete vs incomplete and perfect vs imperfect flowers.",
+          "citation": "BOT 1121 Lec 12, Slide 16",
+          "tags": [
+            "flowers",
+            "complete",
+            "incomplete",
+            "perfect",
+            "imperfect"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c14",
+          "front": "In flowers, what is the difference between connation and adnation?",
+          "hint": "Fusing like parts together vs fusing unlike parts together.",
+          "back": "• **Connation**: The fusion of **like parts** together.\n  - *Example*: Petals fused together to form a tube, or sepals fused together.\n\n• **Adnation**: The fusion of **unlike parts** together.\n  - *Example*: Stamens fused directly onto the inside of the petal tube.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_12_p12_1.jpeg",
+          "imageDescription": "Diagram contrasting connation (like organs fused) and adnation (unlike organs fused).",
+          "citation": "BOT 1121 Lec 12, Slide 12",
+          "tags": [
+            "flowers",
+            "connation",
+            "adnation",
+            "fusion"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c15",
+          "front": "What is the difference between a superior ovary and an inferior ovary?",
+          "hint": "Look at where the petals, sepals, and stamens attach relative to the ovary.",
+          "back": "• **Superior Ovary (Hypogynous flower)**:\n  - The ovary sits **above** the attachment point of the sepals, petals, and stamens.\n  - The ovary is free and visible above the floral parts.\n\n• **Inferior Ovary (Epigynous flower)**:\n  - The ovary sits **below** the attachment point of the sepals, petals, and stamens.\n  - The ovary is embedded down inside the receptacle/floral cup (like in apples and squash).",
+          "image": "images/bot-1121-flowers/fig_9_28_ovary_positions_superior_inferior.jpg",
+          "imageDescription": "Botanical comparison showing hypogynous flower with superior ovary vs epigynous flower with inferior ovary.",
+          "citation": "BOT 1121 Lec 12, Slide 28",
+          "tags": [
+            "flowers",
+            "superior ovary",
+            "inferior ovary",
+            "hypogynous",
+            "epigynous"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c16",
+          "front": "What is a fruit, and what are the three layers of the pericarp (fruit wall)?",
+          "hint": "A fruit is a mature ripened ovary. Think skin, flesh, and inner pit layer.",
+          "back": "• **Fruit**: A mature, ripened **ovary** that protects the seeds and helps with seed dispersal.\n• **Pericarp** (the fruit wall) is divided into 3 layers:\n  1. **Exocarp**: The outer skin or rind.\n  2. **Mesocarp**: The fleshy middle tissue (the part we usually eat).\n  3. **Endocarp**: The innermost layer surrounding the seed (can be thin, fleshy, or a hard stony pit).",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_13_p2_0.jpeg",
+          "imageDescription": "Diagram of fruit pericarp layers showing exocarp, mesocarp, and endocarp around the seed.",
+          "citation": "BOT 1121 Lec 13, Slide 2-3",
+          "tags": [
+            "fruit",
+            "pericarp",
+            "exocarp",
+            "mesocarp",
+            "endocarp"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c17",
+          "front": "What is a drupe, a berry, and a pome? (Give examples of each)",
+          "hint": "Stone pit vs all soft flesh vs apple core.",
+          "back": "• **Drupe (\"Stone Fruit\")**:\n  - Fleshy fruit with a hard, stony **endocarp (pit)** enclosing a single seed.\n  - *Examples*: Peach, cherry, plum, olive, avocado.\n• **Berry**:\n  - Entire pericarp is soft and fleshy throughout, usually with multiple seeds; no stony pit.\n  - *Examples*: Tomato, grape, blueberry, pepper, banana.\n• **Pome**:\n  - Fruit where the fleshy edible part comes from the swollen receptacle/hypanthium around an inferior ovary; papery endocarp \"core\".\n  - *Examples*: Apple, pear.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_13_p5_0.jpeg",
+          "imageDescription": "Comparison of fleshy fruit types: drupe (peach), berry (tomato), and pome (apple).",
+          "citation": "BOT 1121 Lec 13, Slide 4-8",
+          "tags": [
+            "fruit",
+            "drupe",
+            "berry",
+            "pome",
+            "classification"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c18",
+          "front": "What is the difference between an aggregate fruit and a multiple fruit?",
+          "hint": "One flower with many ovaries vs many separate flowers fused together.",
+          "back": "• **Aggregate Fruit**:\n  - Develops from a **single flower** that has **many separate carpels (ovaries)**.\n  - Each carpel develops into a tiny fruitlet on one receptacle.\n  - *Examples*: Blackberry, raspberry, strawberry.\n\n• **Multiple Fruit**:\n  - Develops from an **entire inflorescence (cluster of many separate flowers)** that fuse together as they mature.\n  - *Examples*: Pineapple, fig, mulberry.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_13_p13_2.jpeg",
+          "imageDescription": "Morphology of aggregate fruits (single flower, many carpels) vs multiple fruits (many flowers fused).",
+          "citation": "BOT 1121 Lec 13, Slide 13",
+          "tags": [
+            "fruit",
+            "aggregate",
+            "multiple",
+            "inflorescence",
+            "receptacle"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c19",
+          "front": "Why is a strawberry classified as an 'accessory aggregate fruit'?",
+          "hint": "What is the red part you eat, and what are the tiny 'seeds' on the surface?",
+          "back": "In a strawberry:\n\n• **Red Fleshy Part**: Is NOT the ovary! It is the enlarged, swollen **receptacle** (an *accessory* organ).\n• **Tiny \"Seeds\" on Surface**: Are actually the true botanical fruits! They are tiny individual dry fruits called **achenes**, each containing a single seed.\n• Because it comes from one flower with many carpels and edible non-ovary tissue, it is called an **accessory aggregate fruit**.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_13_p15_0.jpeg",
+          "imageDescription": "Close-up of strawberry anatomy highlighting swollen receptacle and surface achenes.",
+          "citation": "BOT 1121 Lec 13, Slide 15",
+          "tags": [
+            "fruit",
+            "strawberry",
+            "accessory fruit",
+            "achene",
+            "receptacle"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c20",
+          "front": "What are the three main parts of an angiosperm seed?",
+          "hint": "The protective coat, the baby plant, and the food storage tissue.",
+          "back": "An angiosperm seed consists of:\n\n1. **Seed Coat (Testa)**: Tough protective outer layer developed from the integuments of the ovule.\n2. **Embryo**: The young baby plant consisting of cotyledon(s) (seed leaves), epicotyl (future shoot), and radicle (embryonic root).\n3. **Endosperm**: Nutritive tissue formed by double fertilization (triploid, 3n) that feeds the embryo during germination.",
+          "image": "images/diagrams/seed_structure.svg",
+          "imageDescription": "Diagram of an angiosperm seed showing seed coat, embryo (cotyledon, radicle), and endosperm.",
+          "citation": "BOT 1121 Lec 13, Slide 25",
+          "tags": [
+            "seeds",
+            "seed coat",
+            "embryo",
+            "endosperm",
+            "cotyledon"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c21",
+          "front": "In fig biology, what is a syconium and what is the ostiole?",
+          "hint": "A fig is an inside-out flower cluster with a small entrance hole.",
+          "back": "• **Syconium**: The hollow, fleshy, flask-shaped structure of a fig. It is an **inverted inflorescence** with hundreds of tiny individual flowers lining the inside wall!\n• **Ostiole**: The small opening or pore at the tip of the syconium, covered by tight scales, through which the fig wasp enters.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_14_p10_0.jpeg",
+          "imageDescription": "Longitudinal section of a fig syconium showing internal flowers and the apical ostiole pore.",
+          "citation": "BOT 1121 Lec 14, Slide 10-12",
+          "tags": [
+            "fig",
+            "syconium",
+            "ostiole",
+            "inflorescence"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c22",
+          "front": "How do fig wasps and figs help each other (obligate mutualism)?",
+          "hint": "The wasp gets a nursery for its young; the fig gets pollinated.",
+          "back": "Fig wasps and figs share an **obligate mutualism** (neither can reproduce without the other):\n\n• **For the Fig**: The female wasp carries pollen on her body from her birth fig and pollinates the flowers inside the new syconium, enabling seed production.\n• **For the Wasp**: The fig provides a safe nursery. The wasp lays eggs in some flower ovaries, which form galls that nourish the wasp larvae until adulthood.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_14_p18_0.jpeg",
+          "imageDescription": "Diagram illustrating the mutualistic life cycle of the fig wasp (Blastophaga psenes) and fig tree.",
+          "citation": "BOT 1121 Lec 14, Slide 18-19",
+          "tags": [
+            "fig",
+            "fig wasp",
+            "mutualism",
+            "pollination",
+            "symbiosis"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c23",
+          "front": "What is the difference between a caprifig and an edible fig?",
+          "hint": "Male tree where wasps breed vs female tree that makes seeds/fruit.",
+          "back": "• **Caprifig (Male tree)**:\n  - Produces male flowers with pollen and **short-styled** female flowers.\n  - The wasp's ovipositor easily reaches the ovary to lay eggs (wasp nursery; inedible to humans).\n\n• **Edible Fig (Female tree)**:\n  - Produces only **long-styled** female flowers.\n  - The style is longer than the wasp's ovipositor, so she cannot lay eggs! Instead, she only deposits pollen, fertilizing the flowers to produce seeds and delicious edible figs.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_14_p26_0.jpeg",
+          "imageDescription": "Comparison of short-styled flowers in male caprifigs vs long-styled flowers in female edible figs.",
+          "citation": "BOT 1121 Lec 14, Slide 24-26",
+          "tags": [
+            "fig",
+            "caprifig",
+            "edible fig",
+            "short style",
+            "long style"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c24",
+          "front": "What are the roles of male and female fig wasps inside the syconium?",
+          "hint": "Males never leave the fig; females collect pollen and fly away.",
+          "back": "Inside the syconium:\n\n• **Male Wasps**: Wingless and blind. They hatch first, find galls containing females, mate with them, chew escape holes through the fig wall, and die without ever leaving the fig.\n• **Female Wasps**: Winged. After mating, they gather pollen from male flowers inside the fig, crawl out through the escape hole, and fly to search for a new syconium to lay eggs and pollinate.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_14_p20_0.jpeg",
+          "imageDescription": "Photomicrograph of wingless male fig wasps chewing exit holes and winged female fig wasps.",
+          "citation": "BOT 1121 Lec 14, Slide 20-21",
+          "tags": [
+            "fig wasp",
+            "male wasp",
+            "female wasp",
+            "gall",
+            "mating"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c25",
+          "front": "What is parthenocarpy, and why is it important for commercial figs?",
+          "hint": "Fruit ripening without pollination or seeds (virgin fruit).",
+          "back": "• **Parthenocarpy**: The development and ripening of fruit **without pollination or fertilization**, resulting in seedless fruit.\n• **Why it matters**: Commercial fig cultivars like **'Black Mission'** are parthenocarpic—they produce delicious, sweet, mature figs without needing caprifig trees or fig wasps to pollinate them!",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_14_p31_2.jpeg",
+          "imageDescription": "Ripe Black Mission figs developing parthenocarpically without requiring wasp pollination.",
+          "citation": "BOT 1121 Lec 14, Slide 31",
+          "tags": [
+            "fig",
+            "parthenocarpy",
+            "black mission",
+            "commercial agriculture"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c26",
+          "front": "What is transpiration, and where does most of it occur?",
+          "hint": "Water evaporating from leaves through microscopic pores.",
+          "back": "• **Transpiration**: The evaporation of water vapor from a plant's tissues into the atmosphere.\n• **Location**: Over **90%** of transpiration occurs through the **stomata** (pores on the surface of leaves).\n• **Function**: Transpiration generates the negative tension that \"pulls\" water and dissolved mineral nutrients all the way up from roots to the leaves.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_15_p6_0.jpeg",
+          "imageDescription": "Diagram of leaf transpiration showing water vapor diffusing out through open stomata.",
+          "citation": "BOT 1121 Lec 15, Slide 5-6",
+          "tags": [
+            "water transport",
+            "transpiration",
+            "stomata",
+            "evaporation"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c27",
+          "front": "How do guard cells open and close stomata?",
+          "hint": "Potassium ions (K+) are pumped in, and water follows by osmosis.",
+          "back": "• **To OPEN Stomata**:\n  1. Guard cells actively pump in potassium ions (**K+**).\n  2. Water enters the guard cells by **osmosis**.\n  3. Guard cells become **turgid (swollen)** and bow outwards, opening the pore.\n\n• **To CLOSE Stomata**:\n  1. Potassium ions (**K+**) exit the guard cells.\n  2. Water leaves by osmosis.\n  3. Guard cells become **flaccid (limp)** and collapse together, closing the pore.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_15_p22_0.jpeg",
+          "imageDescription": "Mechanism of stomata opening: K+ ion influx causes osmotic swelling of guard cells.",
+          "citation": "BOT 1121 Lec 15, Slide 22",
+          "tags": [
+            "stomata",
+            "guard cells",
+            "potassium",
+            "osmosis",
+            "turgor"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c28",
+          "front": "What is the Cohesion-Tension Theory of water transport?",
+          "hint": "Water is pulled from the top; water sticks to water, and water sticks to xylem walls.",
+          "back": "The **Cohesion-Tension Theory** explains how water climbs tall trees without pumps:\n\n• **Tension (Pull)**: Evaporation of water from leaves (transpiration) creates a strong **negative pressure (suction/tension)** that pulls water up from below.\n• **Cohesion**: Water molecules stick tightly to each other via hydrogen bonds, forming an unbroken water chain.\n• **Adhesion**: Water molecules stick to the hydrophilic cell walls of xylem, supporting the weight of the water column against gravity.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_15_p25_0.jpeg",
+          "imageDescription": "The cohesion-tension model showing water pulled upward through xylem by leaf transpiration.",
+          "citation": "BOT 1121 Lec 15, Slide 25",
+          "tags": [
+            "cohesion-tension",
+            "transpiration",
+            "xylem",
+            "water pull"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c29",
+          "front": "What is xylem cavitation (or embolism), and what causes it?",
+          "hint": "An air bubble forms inside the water pipeline, breaking the chain.",
+          "back": "• **Cavitation**: The breaking of the continuous water column inside a xylem vessel or tracheid, forming an **air bubble (embolism)**.\n• **Causes**:\n  - Severe drought (extreme negative tension pulls air through pit membranes).\n  - Freezing and thawing (dissolved air comes out of solution as ice forms).\n• **Consequence**: The air bubble blocks water flow through that xylem conduit, like an air bubble in a drinking straw.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_15_p26_0.jpeg",
+          "imageDescription": "Diagram of cavitation forming an air bubble embolism that blocks xylem water transport.",
+          "citation": "BOT 1121 Lec 15, Slide 26 & 30",
+          "tags": [
+            "xylem",
+            "cavitation",
+            "embolism",
+            "drought",
+            "water tension"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c30",
+          "front": "What are tracheids and vessel elements in xylem?",
+          "hint": "Dead tube cells: one is long and tapered with pits; the other is wider with open perforated ends.",
+          "back": "Both are **dead at maturity** with thick lignified cell walls that conduct water under tension:\n\n• **Tracheids**:\n  - Long, slender, tapered cells with closed ends.\n  - Water passes through **pits** in lateral walls.\n  - Found in all vascular plants (only water conduit in gymnosperms/ferns).\n• **Vessel Elements**:\n  - Shorter, much wider cylindrical cells aligned end-to-end.\n  - Have open **perforation plates** at the ends, forming open pipe-like vessels.\n  - Highly efficient water flow; found almost exclusively in **angiosperms**.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_15_p12_0.jpeg",
+          "imageDescription": "Comparison of xylem tracheids with bordered pits vs wide vessel elements with perforation plates.",
+          "citation": "BOT 1121 Lec 15, Slide 12",
+          "tags": [
+            "xylem",
+            "tracheids",
+            "vessel elements",
+            "perforation plate"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c31",
+          "front": "What are sieve tube elements and companion cells in phloem?",
+          "hint": "One is the living tube without a nucleus; the other is the metabolic helper cell with a nucleus.",
+          "back": "Phloem conducting cells are **alive at maturity**:\n\n• **Sieve Tube Elements**:\n  - Elongated conducting cells joined end-to-end through perforated **sieve plates**.\n  - Lack a nucleus, vacuole, and ribosomes at maturity to allow sap to flow freely.\n• **Companion Cells**:\n  - Connected to sieve tube elements by numerous plasmodesmata.\n  - Retain their nucleus and have many mitochondria; they handle metabolism and load/unload sugars into the sieve tubes.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_16_p8_0.jpeg",
+          "imageDescription": "Longitudinal section of phloem showing sieve tube elements, sieve plates, and companion cells.",
+          "citation": "BOT 1121 Lec 16, Slide 8",
+          "tags": [
+            "phloem",
+            "sieve tube",
+            "companion cell",
+            "sieve plate"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c32",
+          "front": "In phloem transport, what is a sugar source vs. a sugar sink?",
+          "hint": "Where sugar is produced/exported vs where sugar is consumed or stored.",
+          "back": "• **Source**: A plant organ that **produces or exports** more sugar than it uses.\n  - *Examples*: Mature photosynthesizing leaves, or storage roots in early spring releasing stored starch.\n\n• **Sink**: A plant organ that **consumes or stores** sugar.\n  - *Examples*: Growing root tips, developing fruits, flowers, seeds, apical buds, and young expanding leaves.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_16_p14_0.jpeg",
+          "imageDescription": "Diagram of source-to-sink sugar translocation from mature leaves to roots and shoot tips.",
+          "citation": "BOT 1121 Lec 16, Slide 14",
+          "tags": [
+            "phloem",
+            "source",
+            "sink",
+            "sugar translocation"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c33",
+          "front": "How does the Pressure-Flow Hypothesis explain sugar transport?",
+          "hint": "Sugar is pumped in, water follows by osmosis creating high pressure, pushing sap to the sink.",
+          "back": "The **Pressure-Flow Hypothesis** (Münch model):\n\n1. **Loading at Source**: Sugars are actively pumped into sieve tube elements at the source.\n2. **Water Influx**: Water moves from adjacent xylem into the phloem by **osmosis**, creating **high positive turgor pressure**.\n3. **Bulk Flow**: The high pressure pushes the sugary sap through sieve tubes toward the sink.\n4. **Unloading at Sink**: Sugars are unloaded at the sink; water moves back to the xylem by osmosis, lowering pressure.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_16_p18_0.jpeg",
+          "imageDescription": "The pressure-flow mechanism: high turgor pressure at source drives sap to low pressure at sink.",
+          "citation": "BOT 1121 Lec 16, Slide 18",
+          "tags": [
+            "pressure-flow",
+            "phloem",
+            "bulk flow",
+            "osmosis",
+            "turgor"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c34",
+          "front": "What form of sugar is transported in phloem sap, and why?",
+          "hint": "Table sugar (disaccharide made of glucose + fructose).",
+          "back": "• **Sugar Transported**: Plants transport sugar primarily as **sucrose** (a disaccharide made of glucose + fructose).\n• **Why Sucrose?**:\n  - Sucrose is a **non-reducing sugar**, making it chemically stable and unreactive during transit.\n  - It packs twice the energy of glucose per molecule, making transport highly efficient.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_16_p24_0.jpeg",
+          "imageDescription": "Molecular structure of sucrose (glucose + fructose) transported through phloem sieve tubes.",
+          "citation": "BOT 1121 Lec 16, Slide 24",
+          "tags": [
+            "phloem",
+            "sucrose",
+            "carbohydrate transport",
+            "non-reducing sugar"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c35",
+          "front": "What is girdling (ringing) a tree, and why does it cause the tree to die?",
+          "hint": "Removing a strip of bark all the way around the trunk removes the phloem.",
+          "back": "• **What it is**: Girdling is removing a complete strip of outer bark (which contains the **phloem**) all the way around a tree trunk.\n• **Why it kills the tree**:\n  - The xylem (deeper inside the wood) is unharmed, so water still flows up to leaves.\n  - However, **sugars cannot travel down** through the severed phloem to the roots.\n  - Eventually, the **roots starve to death** from lack of sugar, causing the entire tree to die.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_16_p36_0.jpeg",
+          "imageDescription": "Photo of a girdled tree trunk showing severed phloem and root starvation mechanism.",
+          "citation": "BOT 1121 Lec 16, Slide 36",
+          "tags": [
+            "girdling",
+            "phloem",
+            "bark",
+            "tree death",
+            "root starvation"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c36",
+          "front": "What is the chemical equation for photosynthesis, and where does a plant's mass come from?",
+          "hint": "CO2 + H2O + light -> glucose + O2. Mass comes from the air, not the soil!",
+          "back": "• **Photosynthesis Equation**:\n  $$6\\text{CO}_2 + 6\\text{H}_2\\text{O} + \\text{light energy} \\rightarrow \\text{C}_6\\text{H}_{12}\\text{O}_6 \\text{ (glucose)} + 6\\text{O}_2$$\n\n• **Where Plant Mass Comes From**:\n  - Jan Baptist van Helmont's classic willow tree experiment proved that plant mass does **NOT** come from soil.\n  - The massive dry weight of trees and plants comes from **carbon dioxide (CO2) absorbed from the air** (fixed into carbon polymers like cellulose)!",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_17_p4_0.jpeg2000",
+          "imageDescription": "Van Helmont's willow tree experiment showing plant mass comes from air and water, not soil.",
+          "citation": "BOT 1121 Lec 17, Slide 8 & 13",
+          "tags": [
+            "photosynthesis",
+            "equation",
+            "van helmont",
+            "carbon dioxide",
+            "biomass"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c37",
+          "front": "What are the main parts of a chloroplast, and where does each stage of photosynthesis take place?",
+          "hint": "Thylakoid discs, grana stacks, and stroma fluid.",
+          "back": "Chloroplast structure:\n\n• **Thylakoids**: Flattened disc-like membrane sacs containing chlorophyll.\n  - **Light-Dependent Reactions** take place here across the thylakoid membrane.\n• **Granum** (plural: *grana*): Stacks of thylakoid discs.\n• **Stroma**: The dense fluid-filled space surrounding the thylakoids.\n  - The **Calvin Cycle (Light-Independent Reactions)** takes place here in the stroma.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_17_p21_0.jpeg",
+          "imageDescription": "Chloroplast anatomy detailing outer/inner membranes, stroma, thylakoids, and grana stacks.",
+          "citation": "BOT 1121 Lec 17, Slide 21",
+          "tags": [
+            "chloroplast",
+            "thylakoid",
+            "granum",
+            "stroma",
+            "light reactions"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c38",
+          "front": "What are the inputs and outputs of the Light-Dependent Reactions of photosynthesis?",
+          "hint": "Water and light go in; oxygen, ATP, and NADPH come out.",
+          "back": "In the thylakoid membrane:\n\n• **Inputs**:\n  - **Sunlight (photons)**: Absorbed by chlorophyll pigments.\n  - **Water (H2O)**: Split to provide replacement electrons.\n  - **ADP + Pi** and **NADP+**.\n\n• **Outputs**:\n  - **Oxygen (O2)**: Released as a byproduct into the atmosphere when water is split.\n  - **ATP**: Chemical energy to fuel the Calvin Cycle.\n  - **NADPH**: High-energy electron carrier to fuel the Calvin Cycle.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_17_p28_0.jpeg",
+          "imageDescription": "Overview of the light-dependent reactions generating ATP and NADPH while releasing O2.",
+          "citation": "BOT 1121 Lec 17, Slide 30-37",
+          "tags": [
+            "light reactions",
+            "inputs",
+            "outputs",
+            "water splitting",
+            "atp",
+            "nadph"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c39",
+          "front": "What does chlorophyll do, and which colors of light does it absorb and reflect?",
+          "hint": "Why do leaves appear green to our eyes?",
+          "back": "• **Role**: Chlorophyll is the primary photosynthetic pigment; it absorbs photons to excite electrons to higher energy levels.\n• **Absorbs**: Strongly absorbs **Blue** (~430-450 nm) and **Red** (~650-680 nm) light.\n• **Reflects**: Reflects **Green** light (~500-550 nm).\n  - Because green light is reflected and not absorbed, plants look green to us!",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_17_p24_0.jpeg",
+          "imageDescription": "Absorption spectrum of chlorophyll a and b showing peak absorption in red/blue and reflection in green.",
+          "citation": "BOT 1121 Lec 17, Slide 23-25",
+          "tags": [
+            "chlorophyll",
+            "pigments",
+            "absorption spectrum",
+            "green light"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c40",
+          "front": "What is ATP Synthase and how does it make ATP in the thylakoid membrane?",
+          "hint": "A microscopic rotary turbine powered by hydrogen protons (H+).",
+          "back": "• **ATP Synthase**: An enzyme complex embedded in the thylakoid membrane.\n• **How it works**:\n  1. The electron transport chain pumps hydrogen protons (**H+**) into the thylakoid lumen, creating a steep concentration gradient.\n  2. Protons rush back out into the stroma through ATP Synthase.\n  3. This proton flow spins the enzyme like a turbine, attaching a phosphate to ADP to create **ATP** (*photophosphorylation*).",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_17_p29_0.jpeg",
+          "imageDescription": "ATP Synthase rotary turbine driven by proton (H+) electrochemical gradient across thylakoid.",
+          "citation": "BOT 1121 Lec 17, Slide 34-36",
+          "tags": [
+            "atp synthase",
+            "chemiosmosis",
+            "proton gradient",
+            "photophosphorylation"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c41",
+          "front": "What is the Calvin Cycle, where does it occur, and what are its inputs and outputs?",
+          "hint": "Occurs in the stroma; turns CO2 into sugar using ATP and NADPH.",
+          "back": "• **Location**: In the **stroma** (fluid) of the chloroplast.\n• **Inputs**:\n  - **CO2** (absorbed from air)\n  - **ATP** & **NADPH** (energy from the light reactions)\n• **Outputs**:\n  - **G3P** (Glyceraldehyde-3-phosphate, a 3-carbon sugar used to build glucose, starch, and cellulose)\n  - **ADP + Pi** & **NADP+** (recycled back to light reactions)",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_18_p7_0.png",
+          "imageDescription": "Calvin-Benson cycle in the stroma converting CO2 into 3-carbon sugars (G3P) using ATP and NADPH.",
+          "citation": "BOT 1121 Lec 18, Slide 7-10",
+          "tags": [
+            "calvin cycle",
+            "stroma",
+            "carbon fixation",
+            "g3p",
+            "glucose"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c42",
+          "front": "What is RuBisCO, why is it so important, and what is its main flaw?",
+          "hint": "Most abundant enzyme on Earth! Fixes CO2, but sometimes grabs oxygen by mistake.",
+          "back": "• **What it is**: *Ribulose-1,5-bisphosphate carboxylase-oxygenase*.\n• **Importance**: The most abundant enzyme on Earth (makes up 10-25% of all leaf protein). It performs **carbon fixation**—attaching CO2 from the air to RuBP to kick off the Calvin Cycle.\n• **Main Flaw**: It evolved when atmospheric O2 was low, so its active site can accidentally bind **O2 instead of CO2**, triggering wasteful **photorespiration**!",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_18_p5_0.jpeg",
+          "imageDescription": "RuBisCO enzyme structure and role in catalyzing the addition of CO2 to RuBP.",
+          "citation": "BOT 1121 Lec 18, Slide 4-6 & 23",
+          "tags": [
+            "rubisco",
+            "enzyme",
+            "carbon fixation",
+            "photorespiration"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c43",
+          "front": "What is photorespiration, and why is it bad for plants?",
+          "hint": "RuBisCO binds O2 instead of CO2, wasting ATP and releasing CO2 without making sugar.",
+          "back": "• **What it is**: A wasteful metabolic process that occurs when RuBisCO binds to **O2** instead of CO2.\n• **Why it is bad**:\n  - It consumes ATP and NADPH without producing any sugar or ATP.\n  - It actually *releases* previously fixed CO2 back into the air.\n• **When it happens**: In hot, dry weather when plants close stomata to save water. CO2 drops inside the leaf while O2 builds up from light reactions, accelerating photorespiration.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_18_p24_0.png",
+          "imageDescription": "Comparison of Calvin Cycle (CO2 binding) vs wasteful photorespiration (O2 binding by RuBisCO).",
+          "citation": "BOT 1121 Lec 18, Slide 24-25",
+          "tags": [
+            "photorespiration",
+            "rubisco",
+            "stomata closure",
+            "wasteful"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c44",
+          "front": "How do C4 plants (like corn and sugarcane) prevent photorespiration?",
+          "hint": "Spatial separation — carbon capture happens in one cell, Calvin cycle in another.",
+          "back": "C4 plants use **Spatial Separation** (Kranz anatomy) to beat photorespiration:\n\n1. **Mesophyll Cells**: CO2 is captured by **PEP carboxylase** (an enzyme that never binds O2) and turned into a 4-carbon acid.\n2. **Bundle Sheath Cells**: The 4-carbon acid is pumped into bundle sheath cells around leaf veins, where it releases high concentrations of CO2 right around RuBisCO.\n• Because CO2 is concentrated around RuBisCO, it never binds O2!\n• *Examples*: Corn, sugarcane, crabgrass, sorghum.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_18_p28_0.jpeg",
+          "imageDescription": "C4 Kranz anatomy showing spatial separation of CO2 capture in mesophyll and Calvin cycle in bundle sheath.",
+          "citation": "BOT 1121 Lec 18, Slide 28-29",
+          "tags": [
+            "c4 photosynthesis",
+            "spatial separation",
+            "pep carboxylase",
+            "bundle sheath",
+            "corn"
+          ]
+        },
+        {
+          "id": "bot-1121-m2-c45",
+          "front": "How do CAM plants (cacti, agaves, succulents) survive in hot, dry deserts?",
+          "hint": "Temporal separation — open stomata at night, close them during the hot day!",
+          "back": "CAM plants (*Crassulacean Acid Metabolism*) use **Temporal Separation (Night vs. Day)**:\n\n• **At Night (Stomata Open)**: It is cool and humid, so plants open stomata with minimal water loss. CO2 is captured by PEP carboxylase and stored as malic acid in large cell vacuoles.\n• **During the Day (Stomata Closed)**: Stomata remain tightly shut to conserve water under the blazing sun. Stored acid breaks down to release CO2 inside the cells, running the Calvin cycle using sunlight!\n• *Examples*: Cacti, pineapple, agaves, jade plant, aloe.",
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_18_p30_0.jpeg",
+          "imageDescription": "CAM photosynthesis mechanism: night CO2 fixation into vacuoles and daytime Calvin cycle with closed stomata.",
+          "citation": "BOT 1121 Lec 18, Slide 30-33",
+          "tags": [
+            "cam photosynthesis",
+            "temporal separation",
+            "desert succulents",
+            "night stomata",
+            "cacti"
+          ]
+        }
+      ],
+      "quizzes": [
+        {
+          "station": "Question 1: Fern Biomechanics",
+          "question": "What is the specialized ring of thickened cells on a fern sporangium that snaps open to catapult spores into the air?",
+          "options": [
+            "Indusium",
+            "Annulus",
+            "Rhizoid",
+            "Prothallus"
+          ],
+          "correctIndex": 1,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_10_p31_0.jpeg",
+          "imageDescription": "High magnification of a fern sporangium showcasing the thickened annulus crest.",
+          "socraticHint": "Think of the ring that acts like an elastic catapult when water evaporates.",
+          "explanation": "The correct answer is the **Annulus**. The annulus is a crest of cells with thickened inner walls. As water evaporates, negative tension builds until the ring snaps forward, flinging spores out.",
+          "citation": "BOT 1121 Lec 10, Slide 31"
+        },
+        {
+          "station": "Question 2: Fern Life Cycle",
+          "question": "What do fern sperm require in order to swim to the archegonium and fertilize the egg?",
+          "options": [
+            "Insect pollinators like bees",
+            "A film of liquid water",
+            "High wind currents",
+            "Direct sunlight"
+          ],
+          "correctIndex": 1,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_10_p32_2.jpeg",
+          "imageDescription": "Gametophyte slide showing antheridia producing swimming flagellated sperm.",
+          "socraticHint": "Fern sperm have flagella and must swim across the surface of the gametophyte.",
+          "explanation": "The correct answer is **A film of liquid water**. Fern sperm have flagella and must physically swim from the antheridium to the archegonium to fertilize the egg.",
+          "citation": "BOT 1121 Lec 10, Slide 32 & 39"
+        },
+        {
+          "station": "Question 3: Gymnosperm Seeds",
+          "question": "In a gymnosperm seed (like a pine seed), where does the stored food reserve for the embryo come from?",
+          "options": [
+            "Triploid (3n) endosperm formed by double fertilization",
+            "Haploid (1n) female gametophyte tissue",
+            "Diploid (2n) fruit wall tissue",
+            "The pollen grain"
+          ],
+          "correctIndex": 1,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_11_p6_0.jpeg",
+          "imageDescription": "Gymnosperm seed diagram showing the haploid female gametophyte feeding the embryo.",
+          "socraticHint": "Gymnosperms lack double fertilization; their nutritive tissue is the haploid gametophyte.",
+          "explanation": "The correct answer is the **Haploid (1n) female gametophyte tissue**. Unlike flowering plants (which form 3n endosperm via double fertilization), gymnosperms feed the embryo using the existing female gametophyte.",
+          "citation": "BOT 1121 Lec 11, Slide 6-7"
+        },
+        {
+          "station": "Question 4: Living Fossils",
+          "question": "Which gymnosperm is a 'living fossil' with fan-shaped leaves and smelly female seeds containing butyric acid?",
+          "options": [
+            "Coast Redwood (*Sequoia sempervirens*)",
+            "Cycad (*Cycas revoluta*)",
+            "Maidenhair tree (*Ginkgo biloba*)",
+            "Mormon tea (*Ephedra*)"
+          ],
+          "correctIndex": 2,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_11_p15_0.jpeg",
+          "imageDescription": "Distinctive fan-shaped leaves of Ginkgo biloba.",
+          "socraticHint": "Think of the only surviving species in Ginkgophyta.",
+          "explanation": "The correct answer is ***Ginkgo biloba***. It is the sole surviving member of its division, has fan-shaped leaves, is dioecious, and female seeds emit a butyric acid smell (like rancid butter).",
+          "citation": "BOT 1121 Lec 11, Slide 14-17"
+        },
+        {
+          "station": "Question 5: Floral Fusion",
+          "question": "What is the botanical term for the fusion of LIKE floral organs (such as petals fused into a tube)?",
+          "options": [
+            "Adnation",
+            "Connation",
+            "Epigyny",
+            "Parthenocarpy"
+          ],
+          "correctIndex": 1,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_12_p12_1.jpeg",
+          "imageDescription": "Illustration showing petals fused together into a single corolla tube.",
+          "socraticHint": "Like parts fused is connation; unlike parts fused (like stamens to petals) is adnation.",
+          "explanation": "The correct answer is **Connation**. Connation is the fusion of like organs (petals to petals, sepals to sepals). Adnation is the fusion of unlike organs (stamens attached to petals).",
+          "citation": "BOT 1121 Lec 12, Slide 12"
+        },
+        {
+          "station": "Question 6: Ovary Position",
+          "question": "In an apple or cucumber flower, the sepals and petals attach ABOVE the ovary. What type of ovary is this?",
+          "options": [
+            "Superior ovary (Hypogynous)",
+            "Inferior ovary (Epigynous)",
+            "Superficial ovary",
+            "Apocarpous ovary"
+          ],
+          "correctIndex": 1,
+          "image": "images/bot-1121-flowers/fig_9_28_ovary_positions_superior_inferior.jpg",
+          "imageDescription": "Diagram comparing superior ovary (hypogynous) vs inferior ovary (epigynous).",
+          "socraticHint": "When the floral parts attach above the ovary, the ovary sits below (inferior).",
+          "explanation": "The correct answer is an **Inferior ovary (Epigynous flower)**. The ovary is embedded in the receptacle and sits below the attachment points of the sepals, petals, and stamens.",
+          "citation": "BOT 1121 Lec 12, Slide 28"
+        },
+        {
+          "station": "Question 7: Fruit Anatomy",
+          "question": "When eating a peach or cherry (a drupe), what fruit layer does the hard, stony 'pit' represent?",
+          "options": [
+            "The seed coat (testa)",
+            "The endocarp layer of the pericarp",
+            "The mesocarp layer of the pericarp",
+            "The exocarp peel"
+          ],
+          "correctIndex": 1,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_13_p5_0.jpeg",
+          "imageDescription": "Cross section of a drupe showing exocarp skin, fleshy mesocarp, and stony endocarp pit.",
+          "socraticHint": "The pericarp has 3 layers: exocarp (skin), mesocarp (flesh), and endocarp (pit).",
+          "explanation": "The correct answer is the **Endocarp layer of the pericarp**. In a drupe, the inner ovary wall lignifies into a hard, protective pit that encloses the true seed.",
+          "citation": "BOT 1121 Lec 13, Slide 5"
+        },
+        {
+          "station": "Question 8: Fruit Types",
+          "question": "A blackberry develops from a single flower with many separate carpels. What type of fruit is this?",
+          "options": [
+            "Multiple fruit",
+            "Aggregate fruit",
+            "Pome",
+            "Simple berry"
+          ],
+          "correctIndex": 1,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_13_p13_2.jpeg",
+          "imageDescription": "Aggregate fruit developing from multiple carpels on a single flower.",
+          "socraticHint": "One flower with many ovaries makes an aggregate; multiple flowers fused make a multiple fruit.",
+          "explanation": "The correct answer is an **Aggregate fruit**. Aggregate fruits (like blackberries and raspberries) arise from a single flower that possesses multiple separate pistils/carpels.",
+          "citation": "BOT 1121 Lec 13, Slide 13"
+        },
+        {
+          "station": "Question 9: Fig Biology",
+          "question": "Why can female fig wasps lay eggs in caprifigs, but CANNOT lay eggs in female edible figs?",
+          "options": [
+            "Edible figs lack an ostiole entrance hole",
+            "Caprifigs have short-styled flowers matching the wasp's ovipositor length, while edible figs have long-styled flowers",
+            "Edible figs produce poison that kills wasp eggs",
+            "Wasps only mate inside dark caves"
+          ],
+          "correctIndex": 1,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_14_p26_0.jpeg",
+          "imageDescription": "Comparison of short style in caprifig vs long style in edible fig.",
+          "socraticHint": "Look at the length of the flower style compared to the wasp's egg-laying tube (ovipositor).",
+          "explanation": "The correct answer is that **Caprifigs have short-styled flowers matching the wasp ovipositor, while edible figs have long styles**. The wasp's ovipositor cannot reach the ovary in edible figs, so she only pollinates them.",
+          "citation": "BOT 1121 Lec 14, Slide 24-26"
+        },
+        {
+          "station": "Question 10: Stomata Physiology",
+          "question": "What causes guard cells to swell and OPEN the stomatal pore?",
+          "options": [
+            "Pumping out potassium ions (K+) so water leaves",
+            "Pumping in potassium ions (K+), causing water to enter by osmosis",
+            "Loss of water vapor during the night",
+            "Accumulation of oxygen gas inside the leaf"
+          ],
+          "correctIndex": 1,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_15_p22_0.jpeg",
+          "imageDescription": "Diagram of guard cell turgor mechanism driven by K+ ion uptake and osmosis.",
+          "socraticHint": "Active uptake of K+ lowers solute potential, drawing water inward so guard cells swell.",
+          "explanation": "The correct answer is that **guard cells pump in K+ ions, and water follows by osmosis**. As turgor pressure rises, the guard cells swell and bow outwards, opening the pore.",
+          "citation": "BOT 1121 Lec 15, Slide 22"
+        },
+        {
+          "station": "Question 11: Water Transport",
+          "question": "According to the Cohesion-Tension Theory, what provides the main 'pull' that moves water up tall trees?",
+          "options": [
+            "Positive root pressure pushing from below",
+            "Transpiration (evaporation of water from leaves)",
+            "Active muscle-like contraction of xylem walls",
+            "Sugar transport in the phloem"
+          ],
+          "correctIndex": 1,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_15_p25_0.jpeg",
+          "imageDescription": "Transpiration pull at the top of the plant driving the continuous xylem water column.",
+          "socraticHint": "Water evaporating from leaf stomata creates strong negative suction.",
+          "explanation": "The correct answer is **Transpiration (evaporation of water from leaves)**. Transpiration creates negative hydrostatic tension that pulls the unbroken, cohesive water chain all the way up.",
+          "citation": "BOT 1121 Lec 15, Slide 25"
+        },
+        {
+          "station": "Question 12: Sugar Transport",
+          "question": "In the Pressure-Flow Hypothesis, why does sap flow from source to sink in the phloem?",
+          "options": [
+            "High turgor pressure at the source pushes sap toward lower pressure at the sink",
+            "Gravity pulls sugar downwards toward the roots",
+            "Transpiration pull sucks phloem sap upward",
+            "Air pressure blows sap through empty vessels"
+          ],
+          "correctIndex": 0,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_16_p18_0.jpeg",
+          "imageDescription": "High turgor pressure generated by sugar loading at the source pushes bulk phloem sap to sink.",
+          "socraticHint": "Active sugar loading draws in water by osmosis, generating high positive pressure.",
+          "explanation": "The correct answer is that **high turgor pressure at the source pushes sap toward the lower pressure sink**. Water enters phloem by osmosis at the source, creating positive hydrostatic pressure.",
+          "citation": "BOT 1121 Lec 16, Slide 18"
+        },
+        {
+          "station": "Question 13: Light Reactions",
+          "question": "What gas is released as a byproduct when water molecules are split during the Light Reactions of photosynthesis?",
+          "options": [
+            "Carbon dioxide (CO2)",
+            "Oxygen (O2)",
+            "Methane (CH4)",
+            "Nitrogen (N2)"
+          ],
+          "correctIndex": 1,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_17_p28_0.jpeg",
+          "imageDescription": "Photolysis of water yielding H+ ions, electrons, and O2 gas.",
+          "socraticHint": "Plants split H2O to take its electrons; what happens to the remaining oxygen?",
+          "explanation": "The correct answer is **Oxygen (O2)**. In the light reactions, water molecules (H2O) are split by the oxygen-evolving complex to supply replacement electrons, releasing O2 gas.",
+          "citation": "BOT 1121 Lec 17, Slide 31-33"
+        },
+        {
+          "station": "Question 14: Calvin Cycle",
+          "question": "What is the primary job of the enzyme RuBisCO in the Calvin Cycle?",
+          "options": [
+            "To split water molecules and make oxygen",
+            "To fix carbon dioxide by attaching CO2 to RuBP",
+            "To absorb green light photons",
+            "To pump potassium ions into guard cells"
+          ],
+          "correctIndex": 1,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_18_p5_0.jpeg",
+          "imageDescription": "RuBisCO catalyzing the fixation of atmospheric CO2 onto 5-carbon RuBP.",
+          "socraticHint": "RuBisCO stands for Ribulose-1,5-bisphosphate carboxylase/oxygenase.",
+          "explanation": "The correct answer is **To fix carbon dioxide by attaching CO2 to RuBP**. RuBisCO catalyzes the very first step of the Calvin Cycle, turning gaseous CO2 into organic carbon molecules.",
+          "citation": "BOT 1121 Lec 18, Slide 4-6"
+        },
+        {
+          "station": "Question 15: C4 & CAM Photosynthesis",
+          "question": "How do CAM plants (like desert cacti and agaves) avoid water loss and photorespiration?",
+          "options": [
+            "They only open stomata at night to capture CO2, and keep them closed during the hot day",
+            "They absorb water directly through their spines without using stomata",
+            "They run the Calvin Cycle only underground in roots",
+            "They stop photosynthesis completely during sunny days"
+          ],
+          "correctIndex": 0,
+          "image": "images/bot-1121-m2-slides/BOT_1121_F2026_Lecture_18_p30_0.jpeg",
+          "imageDescription": "CAM plants opening stomata at night to store CO2 as malic acid and closing stomata during day.",
+          "socraticHint": "Temporal separation: cool night for CO2 intake, sunny day for light reactions with closed pores.",
+          "explanation": "The correct answer is that **they open stomata at night to capture CO2, and close them during the hot day**. This temporal separation allows them to conserve scarce water while avoiding photorespiration.",
+          "citation": "BOT 1121 Lec 18, Slide 30-32"
+        }
+      ]
+    },
+    {
+      "id": "bot-1121-week-3",
+      "course": "BOT-1121",
+      "title": "BOT-1121: Week 3 — Plant Cells & Tissues (Lab 3)",
+      "description": "Microscopic preparations, cell types (parenchyma, sclerenchyma stone cells), staining reagents (Phloroglucinol-HCl, Iodine I2KI), organelles (amyloplasts, central vacuoles, chloroplasts), and epidermal trichomes.",
+      "source": "Exercise 3 Plant Cells and Tissues (Images).pdf",
+      "flashcards": [
+        {
+          "id": "bot-c1",
+          "front": "What cell type causes the gritty texture in pear (*Pyrus*) flesh?",
+          "hint": "Think about stone cells with thick, hardened walls in sclerenchyma tissue.",
+          "back": "**Sclereids** (also known as **brachysclereids** or **stone cells**). They belong to sclerenchyma ground tissue.",
+          "citation": "Slide 7 (Page 7)",
+          "tags": [
+            "sclerenchyma",
+            "tissues",
+            "pear"
+          ],
+          "image": "images/bot-1121/pear_sclereids_phloroglucinol.png",
+          "imageCaption": "Pear Flesh Squash Stained with Phloroglucinol-HCl",
+          "imageDescription": "Pear flesh squash preparation showing clusters of lignified stone cells (sclereids)."
+        },
+        {
+          "id": "bot-c2",
+          "front": "Are mature sclereid cells living or dead? What type of cell wall do they possess?",
+          "hint": "Consider what happens to cells once heavily lignified walls form.",
+          "back": "They are **dead at functional maturity** and have **thick, lignified secondary cell walls**.",
+          "citation": "Slide 7 (Page 7)",
+          "tags": [
+            "sclerenchyma",
+            "cell-wall"
+          ],
+          "image": "images/bot-1121/pear_sclereid_single_detail.png",
+          "imageCaption": "Single Sclereid Cell (Stone Cell) under 400x - Thick Secondary Wall & Lumen",
+          "imageDescription": "Single sclereid cell at 400x magnification showing thick secondary cell wall and narrow lumen cavity."
+        },
+        {
+          "id": "bot-c3",
+          "front": "What chemical reagent is used to highlight pear sclereids under the microscope, and what color reaction occurs?",
+          "hint": "The chemical begins with 'P' and specifically binds to lignin.",
+          "back": "**Phloroglucinol** (specifically Phloroglucinol-HCl). It stains the lignified secondary cell walls **bright red / pinkish-red**.",
+          "citation": "Slide 7 (Page 7)",
+          "tags": [
+            "staining",
+            "lignin",
+            "chemicals"
+          ],
+          "image": "images/bot-1121/pear_sclereids_phloroglucinol.png",
+          "imageCaption": "Pear Flesh Squash Stained with Phloroglucinol-HCl",
+          "imageDescription": "Phloroglucinol-HCl reaction binding specifically to lignin in secondary cell walls, producing a red/pink stain."
+        },
+        {
+          "id": "bot-c4",
+          "front": "What chemical stain is applied to banana flesh (*Musa*) to visualize stored carbohydrates, and what color does it turn?",
+          "hint": "A common elemental reagent used for starch detection.",
+          "back": "**Iodine** (Lugol's iodine / I₂KI). It stains starch a characteristic **deep purple / bluish-black**.",
+          "citation": "Slide 4 (Page 4)",
+          "tags": [
+            "staining",
+            "starch",
+            "banana"
+          ],
+          "image": "images/bot-1121/banana_amyloplasts_iodine.jpeg",
+          "imageCaption": "Banana Storage Parenchyma Stained with Iodine (I2KI)",
+          "imageDescription": "Iodine (I2KI) reacting with starch polymers (amylose) to produce a deep purple/black coloration."
+        },
+        {
+          "id": "bot-c5",
+          "front": "In what specific organelle/plastid is starch stored inside banana parenchyma cells?",
+          "hint": "A specialized non-pigmented plastid named after amylose.",
+          "back": "**Amyloplasts**. These are specialized leucoplasts (colorless plastids) responsible for synthesizing and storing starch granules.",
+          "citation": "Slide 4 (Page 4)",
+          "tags": [
+            "organelles",
+            "plastids",
+            "storage"
+          ],
+          "image": "images/bot-1121/banana_amyloplasts_iodine.jpeg",
+          "imageCaption": "Banana Storage Parenchyma Stained with Iodine (I2KI)",
+          "imageDescription": "Amyloplasts packed inside the cytoplasm of storage parenchyma cells in banana flesh."
+        },
+        {
+          "id": "bot-c6",
+          "front": "What water-soluble pigment provides the vivid color in purple onion epidermal cells, and where is it located?",
+          "hint": "It is water-soluble (unlike lipid-soluble chlorophyll or carotenoids) and fills the largest central compartment.",
+          "back": "**Anthocyanin**. It is dissolved in the watery solution inside the **central vacuole**.",
+          "citation": "Slide 2 (Page 2)",
+          "tags": [
+            "pigments",
+            "vacuole",
+            "onion"
+          ],
+          "image": "images/bot-1121/onion_epidermis_anthocyanin.png",
+          "imageCaption": "Purple Onion Epidermal Monolayer showing Central Vacuoles",
+          "imageDescription": "Water-soluble anthocyanin pigment dissolved within the large central vacuole of purple onion epidermis."
+        },
+        {
+          "id": "bot-c7",
+          "front": "How do you distinguish the cellular boundaries of purple onion epidermal cells under brightfield microscopy?",
+          "hint": "Notice what borders the colored vacuole.",
+          "back": "The rigid, clear/translucent **primary cellulose cell walls** stand out as sharp boundary outlines surrounding the purple-filled vacuole of each cell.",
+          "citation": "Slide 2 (Page 2)",
+          "tags": [
+            "cell-wall",
+            "microscopy",
+            "onion"
+          ],
+          "image": "images/bot-1121/onion_epidermis_anthocyanin.png",
+          "imageCaption": "Purple Onion Epidermal Monolayer showing Central Vacuoles",
+          "imageDescription": "Clear cellulose primary cell walls forming distinct rectangular boundaries around each onion cell."
+        },
+        {
+          "id": "bot-c8",
+          "front": "Why is *Elodea* frequently chosen for microscopic studies of plant leaf parenchyma and chloroplasts?",
+          "hint": "Think about the thickness of its aquatic leaves.",
+          "back": "*Elodea* leaves are only **a few cell layers thick** (often 2 layers), allowing light to pass through easily without requiring thin physical sectioning.",
+          "citation": "Slide 3 (Page 3)",
+          "tags": [
+            "parenchyma",
+            "chloroplasts",
+            "elodea"
+          ],
+          "image": "images/bot-1121/elodea_leaf_chloroplasts.png",
+          "imageCaption": "Elodea Leaf Parenchyma showing Green Chloroplasts",
+          "imageDescription": "Elodea leaf parenchyma cells showing light-transmitting thin multi-layer leaf architecture."
+        },
+        {
+          "id": "bot-c9",
+          "front": "What is cytoplasmic streaming (cyclosis), and how is it observed in *Elodea*?",
+          "hint": "Observe the movement of green organelles around the central vacuole.",
+          "back": "**Cytoplasmic streaming (cyclosis)** is the active, directed movement of cytoplasm driven by microfilaments (actin-myosin), seen as chloroplasts circling around the large central vacuole.",
+          "citation": "Slide 3 & Textbook Ch. 3",
+          "tags": [
+            "cyclosis",
+            "chloroplasts",
+            "motility"
+          ],
+          "image": "images/bot-1121/elodea_leaf_chloroplasts.png",
+          "imageCaption": "Elodea Leaf Parenchyma showing Green Chloroplasts",
+          "imageDescription": "Green chloroplasts circulating around the central vacuole via cytoplasmic streaming (cyclosis)."
+        },
+        {
+          "id": "bot-c10",
+          "front": "What are the specialized surface hairs found on Flannel Bush (*Fremontodendron*) called, and what shape do they have?",
+          "hint": "They radiate outward like little stars.",
+          "back": "**Trichomes**, specifically **stellate (star-shaped) trichomes** radiating in multi-branched clusters from the epidermis.",
+          "citation": "Slide 6 (Page 6)",
+          "tags": [
+            "epidermis",
+            "trichomes",
+            "adaptations"
+          ],
+          "image": "images/bot-1121/flannel_bush_trichomes.png",
+          "imageCaption": "Stellate (Star-Shaped) Trichomes on Flannel Bush Leaf Margin",
+          "imageDescription": "Multi-branched stellate (star-shaped) trichomes radiating across the epidermal layer."
+        },
+        {
+          "id": "bot-c11",
+          "front": "Name three biological functions of the dense trichomes on Flannel Bush leaves.",
+          "hint": "Think about insects, intense California sun, and water loss in dry climates.",
+          "back": "1. **Herbivore Defense**: Mechanical barrier that deters insect feeding and oviposition.\n2. **Reducing Transpiration**: Traps a boundary layer of humid air near stomata to minimize water loss.\n3. **Solar/UV Protection**: Reflects intense sunlight and ultraviolet radiation to prevent heat damage.",
+          "citation": "Slide 6 (Page 6)",
+          "tags": [
+            "adaptations",
+            "trichomes",
+            "ecology"
+          ],
+          "image": "images/bot-1121/flannel_bush_trichomes.png",
+          "imageCaption": "Stellate (Star-Shaped) Trichomes on Flannel Bush Leaf Margin",
+          "imageDescription": "Dense trichome carpet acting as a reflective boundary layer against intense solar radiation and moisture loss."
+        }
+      ],
+      "quizzes": [
+        {
+          "id": "bot-q1",
+          "question": "A student mounts a thin slice of pear flesh, adds a droplet of phloroglucinol-HCl, and observes clusters of thick-walled cells turning brilliant magenta-red under 400x magnification. What is the chemical stain binding to?",
+          "options": [
+            "Pectin in the middle lamella",
+            "Lignin within the secondary cell wall",
+            "Cellulose in the primary cell wall",
+            "Amylose stored inside the leucoplasts"
+          ],
+          "correctIndex": 1,
+          "explanation": "Phloroglucinol reacts specifically with cinnamaldehyde groups in lignin, turning the lignified secondary walls of sclereids red. Unlignified primary walls (cellulose/pectin) remain unstained or greenish.",
+          "socraticHint": "Recall what makes sclerenchyma walls hard and woody compared to thin parenchyma walls.",
+          "citation": "Exercise 3, Slide 7",
+          "station": "Station 1: Lab 3 Practical",
+          "image": "images/bot-1121/pear_sclereids_phloroglucinol.png",
+          "imageCaption": "Micrograph: Pear flesh squash with Phloroglucinol reagent (Slide 7)",
+          "imageDescription": "Pear flesh squash stained with Phloroglucinol-HCl highlighting thick-walled sclereids in red/magenta amidst thin green parenchyma."
+        },
+        {
+          "id": "bot-q2",
+          "question": "When examining banana storage parenchyma under the microscope, what organelle houses the dark purple structures that appear upon adding iodine (I₂KI)?",
+          "options": [
+            "Chromoplasts",
+            "Chloroplasts",
+            "Amyloplasts",
+            "Central Vacuoles"
+          ],
+          "correctIndex": 2,
+          "explanation": "Banana flesh is composed of storage parenchyma packed with amyloplasts—specialized colorless plastids that synthesize and store starch (amylose & amylopectin), which stain purple with iodine.",
+          "socraticHint": "Which plastid is named after the starch polymer 'amylose'?",
+          "citation": "Exercise 3, Slide 4",
+          "station": "Station 2: Lab 3 Practical",
+          "image": "images/bot-1121/banana_amyloplasts_iodine.jpeg",
+          "imageCaption": "Micrograph: Pear flesh squash with Phloroglucinol reagent (Slide 7)",
+          "imageDescription": "Banana storage parenchyma stained with Iodine (I2KI), showing starch granules turning deep purple inside amyloplasts."
+        },
+        {
+          "id": "bot-q3",
+          "question": "In the purple onion epidermal wet mount, what pigment accounts for the purple coloration, and what is its cellular location?",
+          "options": [
+            "Lipid-soluble chlorophyll in the cytoplasm",
+            "Water-soluble anthocyanin dissolved in the central vacuole",
+            "Carotenoids embedded in the plasma membrane",
+            "Anthocyanin bound to the cell wall cellulose"
+          ],
+          "correctIndex": 1,
+          "explanation": "Anthocyanins are water-soluble flavonoid pigments dissolved in the cell sap inside the large central vacuole, pushing the cytoplasm and nucleus toward the periphery.",
+          "socraticHint": "Is the purple color hydrophobic (lipid-bound) or water-soluble, and which organelle takes up >80% of mature plant cell volume?",
+          "citation": "Exercise 3, Slide 2",
+          "station": "Station 3: Lab 3 Practical",
+          "image": "images/bot-1121/onion_epidermis_anthocyanin.png",
+          "imageCaption": "Micrograph: Purple onion epidermal wet mount (Slide 2)",
+          "imageDescription": "Purple onion epidermal monolayer under brightfield illumination, showing central vacuoles filled with water-soluble anthocyanin."
+        },
+        {
+          "id": "bot-q4",
+          "question": "Which of the following statements regarding the sclereids of *Pyrus* (pear) is TRUE?",
+          "options": [
+            "They possess thin primary walls and are actively dividing.",
+            "They are living cells that transport photosynthetic sugars through sieve plates.",
+            "They are dead at functional maturity and have thick, lignified secondary walls with visible pit canals.",
+            "They contain dense concentrations of chloroplasts for supplementary photosynthesis."
+          ],
+          "correctIndex": 2,
+          "explanation": "Sclereids undergo programmed cell death upon completing the deposition of heavily lignified secondary cell walls, leaving behind narrow lumen cavities interconnected by pit canals.",
+          "socraticHint": "Ground tissue sclerenchyma cells provide static mechanical defense and support—do they need living cytoplasm to do this?",
+          "citation": "Exercise 3, Slide 7",
+          "station": "Station 4: Lab 3 Practical",
+          "image": "images/bot-1121/pear_sclereid_single_detail.png",
+          "imageCaption": "Micrograph: Pear flesh squash with Phloroglucinol reagent (Slide 7)",
+          "imageDescription": "High-magnification (400x) view of a single brachysclereid (stone cell) showing heavily lignified secondary wall layers, pit canals, and central lumen."
+        },
+        {
+          "id": "bot-q5",
+          "question": "The felt-like coating on the leaves of *Fremontodendron californicum* consists of stellate trichomes. How does this structure protect the plant in arid, sunny habitats?",
+          "options": [
+            "It increases water absorption directly from the air during the afternoon.",
+            "It reflects excess solar radiation and maintains a humid boundary layer that reduces transpiration.",
+            "It accelerates xylem transpiration to cool the root system.",
+            "It converts UV photons directly into glucose molecules."
+          ],
+          "correctIndex": 1,
+          "explanation": "Stellate (star-shaped) trichomes create a reflective micro-canopy on the leaf surface that bounces harsh sunlight away and traps stagnant air, dramatically cutting down transpirational water loss.",
+          "socraticHint": "Think about what happens to air flow right against a fuzzy surface versus a smooth surface.",
+          "citation": "Exercise 3, Slide 6",
+          "station": "Station 5: Lab 3 Practical",
+          "image": "images/bot-1121/flannel_bush_trichomes.png",
+          "imageCaption": "Micrograph: Stellate trichomes on leaf surface (Slide 6)",
+          "imageDescription": "Stellate (star-shaped) trichomes covering the surface of a Flannel Bush leaf, providing herbivore defense and reducing transpiration."
+        }
+      ]
+    },
+    {
+      "id": "bot-1121-week-4",
+      "course": "BOT-1121",
+      "title": "BOT-1121: Week 4 — Primary Growth, Tissue Systems & Cross-Sections (Lab 4 & Lecture 4)",
+      "description": "Combined Week 4 mastery deck: Stem morphology (nodes, internodes, axillary buds), primary meristems, tissue systems, phloroglucinol staining, and the complete 2-step diagnostic decision tree for identifying Monocot vs. Eudicot stems and roots.",
+      "source": "Exercise 4 (Primary Growth Images), Lecture 4 Outline, and Plant Tissue Systems",
+      "flashcards": [
+        {
+          "front": "What repeated structural unit defines the developmental axis of a typical plant stem during primary growth?",
+          "hint": "Consider the spatial sequence of stem tissue and lateral appendages produced at nodes/internodes.",
+          "back": "The developmental pattern of a typical stem is a repeating sequence of **Stem, Leaf, Bud**.",
+          "citation": "BOT 1121 F2026 Lecture 4 - Primary Growth (stems).pdf (Page 26)",
+          "tags": [
+            "Morphology",
+            "Primary Growth",
+            "Stem"
+          ],
+          "id": "bot-1121-primary-growth-in-c1"
+        },
+        {
+          "front": "How does environmental light availability dictate the developmental fate of axillary buds in forest vs. open canopy plants?",
+          "hint": "Think about energy distribution strategies under intense shade versus abundant light.",
+          "back": "In **heavily shaded forests**, axillary buds remain **dormant** to direct all energy upward toward light. Under **abundant light**, axillary buds break dormancy to form **branches**, increasing overall light capture surface area.",
+          "citation": "Botany - James D. Mauseth.pdf (Page 357)",
+          "tags": [
+            "Axillary Buds",
+            "Morphology",
+            "Light Response"
+          ],
+          "id": "bot-1121-primary-growth-in-c2"
+        },
+        {
+          "front": "In a cross-section of a primary eudicot stem (e.g., Helianthus), what tissue forms distinct crescent-shaped caps on the outer side of vascular bundles, and what is its main composition?",
+          "hint": "Look for thick-walled, heavily lignified cells lying immediately external to the phloem tissue.",
+          "back": "**Sclerenchyma fibers** form the **bundle cap** (or cap of sclerenchyma fibers). These cells possess **lignified secondary cell walls** that provide mechanical support to the vascular bundle and stem.",
+          "citation": "BOT 1121 F2026 Lecture 4 - Primary Growth (stems).pdf (Page 20)",
+          "tags": [
+            "Anatomy",
+            "Sclerenchyma",
+            "Vascular Bundle"
+          ],
+          "id": "bot-1121-primary-growth-in-c3"
+        },
+        {
+          "front": "What anatomical feature connects the central pith to the outer cortex in a primary eudicot stem showing a ring of vascular bundles?",
+          "hint": "Think about parenchyma tissue occupying the spaces between adjacent vascular bundles (interfascicular regions).",
+          "back": "**Pith rays** (or **interfascicular parenchyma**) are columns of parenchyma cells that extend radially between vascular bundles, linking the central **pith** with the outer **cortex**.",
+          "citation": "BOT 1121 F2026 Lecture 4 - Primary Growth (stems).pdf (Page 20)",
+          "tags": [
+            "Anatomy",
+            "Ground Tissue",
+            "Dicot Stem"
+          ],
+          "id": "bot-1121-primary-growth-in-c4"
+        },
+        {
+          "front": "From which specific structural region of plant stem tissue are commercial natural fibers predominantly harvested?",
+          "hint": "This region contains structural sclerenchyma cells associated with transport tissues.",
+          "back": "Natural fibers are derived primarily from **vascular bundles**, specifically from the long, lignified **sclerenchyma fiber** cells associated with xylem or phloem.",
+          "citation": "BOT 1121 F2026 Lecture 4 - Primary Growth (stems).pdf (Page 21)",
+          "tags": [
+            "Plant Anatomy",
+            "Economic Botany",
+            "Vascular Tissue"
+          ],
+          "id": "bot-1121-primary-growth-in-c5"
+        },
+        {
+          "id": "bot4-c1",
+          "front": "What structure forms the curved arch that pulls delicate cotyledons and shoot apical meristem upward through soil during epigeal bean germination?",
+          "hint": "It is the embryonic stem region located directly below the cotyledons.",
+          "back": "The **hypocotyl arch / hook**. It elongates and arches upward, pulling the delicate shoot apical meristem and cotyledons backward out of the soil to shield them from abrasive friction damage.",
+          "citation": "Exercise 4, Slide 3",
+          "image": "images/bot-1121-ex4/seedling_germination_bean.jpg",
+          "imageDescription": "Germinating bean seedling displaying the curved hypocotyl arch pulling cotyledons upward through the soil.",
+          "tags": [
+            "seedling",
+            "germination",
+            "development"
+          ]
+        },
+        {
+          "id": "bot4-c2",
+          "front": "From what specific primary tissue do root hairs develop, and what is their primary physiological function?",
+          "hint": "Specialized single-celled tubular outgrowths of the outermost dermal layer.",
+          "back": "Root hairs develop from specialized **epidermal cells** (trichoblasts) in the zone of maturation. Their primary function is to **drastically expand root surface area** for water and dissolved mineral absorption.",
+          "citation": "Exercise 4, Slide 4",
+          "image": "images/bot-1121-ex4/radish_root_hairs.jpg",
+          "imageDescription": "Germinating radish seedling root tip showing dense zone of single-celled epidermal root hairs.",
+          "tags": [
+            "root-hairs",
+            "epidermis",
+            "absorption"
+          ]
+        },
+        {
+          "id": "bot4-c3",
+          "front": "How are vascular bundles arranged in a primary eudicot stem cross-section, and what ground tissues occupy the center and periphery?",
+          "hint": "Think of an orderly circular ring dividing the core from the outer zone.",
+          "back": "Vascular bundles are arranged in a **single distinct ring** (cylinder). The center of the stem is occupied by ground parenchyma called the **pith**, while the region between the vascular ring and epidermis is the **cortex**.",
+          "citation": "Exercise 4, Slide 5",
+          "image": "images/bot-1121-ex4/eudicot_stem_ring_bundles.jpg",
+          "imageDescription": "Cross-section of a primary eudicot stem showing vascular bundles arranged in an orderly ring around a central pith.",
+          "tags": [
+            "eudicot",
+            "stem",
+            "vascular-bundles"
+          ]
+        },
+        {
+          "id": "bot4-c4",
+          "front": "In a eudicot stem treated with Phloroglucinol-HCl, which two distinct cell types/regions stain bright red?",
+          "hint": "Water-conducting tracheary elements in the inner pole, and protective sclerenchyma fiber caps on the outer pole.",
+          "back": "1. **Xylem tracheary elements** (vessel elements and tracheids) in the inner part of the vascular bundle.\n2. **Primary phloem fiber caps** (sclerenchyma fibers) situated on the outer perimeter of the bundle.\nBoth possess thick, heavily lignified secondary cell walls.",
+          "citation": "Exercise 4, Slide 6",
+          "image": "images/bot-1121-ex4/eudicot_stem_phloroglucinol.jpg",
+          "imageDescription": "Eudicot stem cross-section stained with Phloroglucinol-HCl showing brilliant red staining in xylem vessels and outer phloem fiber caps.",
+          "tags": [
+            "staining",
+            "phloroglucinol",
+            "lignin",
+            "stem"
+          ]
+        },
+        {
+          "id": "bot4-c5",
+          "front": "In addition to lignin, what other hydrophobic cell wall polymer does phloroglucinol stain in a eudicot root, and where is it located?",
+          "hint": "It forms the Casparian strip in the innermost cortical boundary layer.",
+          "back": "**Suberin**. It is deposited within the **Casparian strip** of radial and transverse walls in the **endodermis**, forming an impermeable apoplastic hydrophobic barrier that forces water and solutes through symplastic plasma membranes before entering the vascular cylinder (stele).",
+          "citation": "Exercise 4, Slide 7-8",
+          "image": "images/bot-1121-ex4/eudicot_root_phloroglucinol_suberin.jpg",
+          "imageDescription": "Eudicot root cross-section after phloroglucinol treatment showing red-stained endodermal Casparian strips (suberin) surrounding the central xylem cross.",
+          "tags": [
+            "root",
+            "endodermis",
+            "suberin",
+            "casparian-strip"
+          ]
+        },
+        {
+          "id": "bot4-c6",
+          "front": "Describe the spatial distribution of vascular bundles in a monocot stem (e.g., Zea mays / corn). Does a monocot stem have a distinct pith and cortex?",
+          "hint": "Are the bundles restricted to an orderly ring, or dispersed throughout the ground tissue?",
+          "back": "Monocot vascular bundles are **scattered throughout the ground tissue** (typically denser toward the periphery). Because there is no continuous vascular ring, there is **no anatomical distinction between pith and cortex**; the surrounding tissue is termed ground parenchyma.",
+          "citation": "Exercise 4, Slide 9",
+          "image": "images/bot-1121-ex4/monocot_stem_scattered_bundles.jpg",
+          "imageDescription": "Monocot stem cross-section (Zea mays) showing numerous closed vascular bundles scattered throughout ground parenchyma.",
+          "tags": [
+            "monocot",
+            "stem",
+            "anatomy"
+          ]
+        },
+        {
+          "id": "bot4-c7",
+          "front": "What anatomical structures form the distinct 'monkey face' appearance of an individual monocot vascular bundle under high magnification?",
+          "hint": "Two big 'eyes', a 'forehead / cap', and a 'mouth / air cavity'.",
+          "back": "• **'Eyes'**: Two large primary **xylem metaxylem vessel elements**.\n• **'Forehead / Cap'**: Primary **phloem** (sieve-tube elements & companion cells) enclosed by a sclerenchyma **bundle sheath**.\n• **'Mouth / Cavity'**: Protoxylem lacuna (ruptured xylem air space).",
+          "citation": "Exercise 4, Slide 10",
+          "image": "images/bot-1121-ex4/monocot_stem_bundle_detail.jpg",
+          "imageDescription": "High-power view of an individual monocot vascular bundle showing two large metaxylem vessel elements ('eyes'), phloem, and bundle sheath fibers.",
+          "tags": [
+            "monocot",
+            "bundle",
+            "xylem",
+            "phloem"
+          ]
+        },
+        {
+          "id": "bot4-c8",
+          "front": "How does the internal vascular arrangement of a monocot root differ fundamentally from a eudicot root?",
+          "hint": "Compare a solid central xylem 'cross/star' with an alternating ring surrounding a core of parenchyma.",
+          "back": "• **Eudicot Root**: Vascular tissue forms a solid central core (stele) with xylem arranged in a 3-5 pointed star/cross and phloem between the arms. **No pith**.\n• **Monocot Root**: Vascular bundles form an alternating **polyarch ring of xylem and phloem strands encircling a distinct central pith**.",
+          "citation": "Exercise 4, Slide 11",
+          "image": "images/bot-1121-ex4/monocot_root_cross_section.jpg",
+          "imageDescription": "Monocot root cross-section displaying an alternating ring of xylem and phloem bundles encircling a prominent central pith.",
+          "tags": [
+            "root",
+            "monocot-vs-eudicot",
+            "anatomy"
+          ]
+        },
+        {
+          "id": "cs-c1",
+          "front": "What is the 2-step decision tree for identifying ANY unknown plant cross-section under a microscope?",
+          "hint": "First determine the organ (Stem vs. Root), then determine the group (Eudicot vs. Monocot).",
+          "back": "• **Step 1 (Organ)**: Look for the **vascular center** vs **endodermis**:\n  - **Root**: Has a distinct **endodermis** (Casparian strip) encircling a central vascular cylinder (stele), wide cortex, no cuticle.\n  - **Stem**: Has an outer **cuticle**, no endodermis, vascular bundles with xylem/phloem paired together, narrower cortex.\n• **Step 2 (Clade)**:\n  - **Stem**: Ring of bundles = **Eudicot**; Scattered bundles = **Monocot**.\n  - **Root**: Solid central xylem star (no pith) = **Eudicot**; Vascular ring around wide central pith = **Monocot**.",
+          "citation": "Lecture 4 & Exercise 4",
+          "image": "images/bot-1121-comparison/monocot_eudicot_traits_chart.png",
+          "imageDescription": "Master morphological decision matrix comparing Monocot and Eudicot anatomical features.",
+          "tags": [
+            "decision-tree",
+            "identification",
+            "cross-sections"
+          ]
+        },
+        {
+          "id": "cs-c2",
+          "front": "Look at this stem cross-section. What two diagnostic features immediately confirm it is a EUDICOT stem rather than a monocot stem?",
+          "hint": "Check the geometry of the vascular bundles and the tissue filling the center.",
+          "back": "1. **Arrangement**: Vascular bundles are aligned in a **single distinct circular ring**.\n2. **Zonation**: The ring clearly divides a large central **pith** (ground parenchyma) from an outer **cortex**.\n*(In a monocot stem, bundles are scattered and there is no separate pith or cortex).*",
+          "citation": "Exercise 4, Slide 5",
+          "image": "images/bot-1121-comparison/eudicot_stem_ring_bundles.jpg",
+          "imageDescription": "Eudicot stem cross-section showing circular ring of vascular bundles separating central pith from peripheral cortex.",
+          "tags": [
+            "eudicot",
+            "stem",
+            "vascular-ring",
+            "pith"
+          ]
+        },
+        {
+          "id": "cs-c3",
+          "front": "Look at this stem cross-section. What two diagnostic features immediately confirm it is a MONOCOT stem?",
+          "hint": "Notice how the bundles are distributed and whether you can draw a line between pith and cortex.",
+          "back": "1. **Scattered Bundles**: Vascular bundles are **dispersed throughout the entire ground tissue** (often smaller and denser near the outer edge).\n2. **No Pith/Cortex Boundary**: There is no ring, so there is **no anatomical distinction between pith and cortex**; the background tissue is simply ground parenchyma.",
+          "citation": "Exercise 4, Slide 9",
+          "image": "images/bot-1121-comparison/monocot_stem_scattered_bundles.jpg",
+          "imageDescription": "Monocot stem cross-section (Zea mays) showing numerous closed vascular bundles scattered throughout ground parenchyma.",
+          "tags": [
+            "monocot",
+            "stem",
+            "scattered",
+            "ground-parenchyma"
+          ]
+        },
+        {
+          "id": "cs-c4",
+          "front": "Examine this root cross-section. How does the central vascular cylinder prove it is a EUDICOT root rather than a monocot root?",
+          "hint": "Does the xylem form a solid star in the dead center, or an open ring around a pith?",
+          "back": "The xylem forms a **solid central star/cross** in the middle of the stele, with phloem clusters nestled between the radiating xylem arms. **Eudicot roots have NO central pith**; the center is completely occupied by solid primary xylem.",
+          "citation": "Exercise 4, Slide 7",
+          "image": "images/bot-1121-comparison/eudicot_root_anatomy.jpg",
+          "imageDescription": "Eudicot root cross-section highlighting the solid central xylem star with no pith, surrounded by endodermis.",
+          "tags": [
+            "eudicot",
+            "root",
+            "stele",
+            "no-pith"
+          ]
+        },
+        {
+          "id": "cs-c5",
+          "front": "Examine this root cross-section. What is the wide tissue filling the center, and why does this diagnose a MONOCOT root?",
+          "hint": "A ring of alternating xylem/phloem strands encircles a wide central core.",
+          "back": "The center is occupied by a large, well-developed **pith** (parenchyma). The vascular tissue forms an alternating **polyarch ring** around this pith. **Only monocot roots have a central pith**; eudicot roots have a solid xylem center.",
+          "citation": "Exercise 4, Slide 11",
+          "image": "images/bot-1121-comparison/monocot_root_cross_section.jpg",
+          "imageDescription": "Monocot root cross-section displaying an alternating vascular ring surrounding a wide central parenchymatous pith.",
+          "tags": [
+            "monocot",
+            "root",
+            "pith",
+            "polyarch-ring"
+          ]
+        },
+        {
+          "id": "cs-c6",
+          "front": "CRITICAL EXAM TRAP: Both a Eudicot Stem and a Monocot Root feature a circular ring surrounding a central pith! How do you tell them apart under a microscope?",
+          "hint": "Look at cortex width, endodermis presence, and whether xylem/phloem are in the same bundle or separate alternating strands.",
+          "back": "• **Eudicot Stem**:\n  - Has **collateral vascular bundles** (xylem and phloem together in each bundle: xylem on inside, phloem on outside).\n  - Cortex is **narrow**; outer surface has a **cuticle**.\n  - **No endodermis**.\n• **Monocot Root**:\n  - Has **separate alternating strands** of xylem vessels and phloem (not in a single bundle).\n  - Cortex is **very wide**.\n  - Surrounded by a distinct **endodermis** (with Casparian strips).",
+          "citation": "Exercise 4, Slides 5 & 11",
+          "image": "images/bot-1121-comparison/monocot_root_detail.jpg",
+          "imageDescription": "High-power monocot root showing wide cortex, dark endodermis ring, and alternating xylem/phloem strands around central pith.",
+          "tags": [
+            "exam-trap",
+            "stem-vs-root",
+            "eudicot-stem-vs-monocot-root"
+          ]
+        },
+        {
+          "id": "cs-c7",
+          "front": "In this high-power monocot stem bundle ('monkey face'), what are the large lateral circles, and what wraps the entire bundle?",
+          "hint": "Axial water-conducting conduits and a ring of lignified sclerenchyma fibers.",
+          "back": "• **Lateral Circles ('Eyes')**: Large primary **metaxylem vessel elements** for water conduction.\n• **Outer Ring**: A dense **bundle sheath** of thick-walled **sclerenchyma fibers** that mechanically supports the closed vascular bundle.",
+          "citation": "Exercise 4, Slide 10",
+          "image": "images/bot-1121-comparison/monocot_stem_bundle_detail.jpg",
+          "imageDescription": "High-magnification monocot vascular bundle showing metaxylem vessel 'eyes', phloem cap, protoxylem cavity, and bundle sheath.",
+          "tags": [
+            "monocot",
+            "vascular-bundle",
+            "metaxylem",
+            "bundle-sheath"
+          ]
+        },
+        {
+          "id": "cs-c8",
+          "front": "When Phloroglucinol-HCl is added to this eudicot stem cross-section, which two parts of each bundle turn bright red?",
+          "hint": "The water-conducting vessels toward the inside, and the protective fiber cap on the outside.",
+          "back": "1. **Primary Xylem vessel elements** (inner pole of the bundle).\n2. **Primary Phloem fiber caps** (sclerenchyma fibers on the outer pole).\nBoth stain red because their secondary walls are heavily impregnated with **lignin**.",
+          "citation": "Exercise 4, Slide 6",
+          "image": "images/bot-1121-comparison/eudicot_stem_phloroglucinol.jpg",
+          "imageDescription": "Eudicot stem cross-section stained with Phloroglucinol-HCl showing brilliant red staining in xylem vessels and outer phloem fiber caps.",
+          "tags": [
+            "phloroglucinol",
+            "staining",
+            "lignin",
+            "eudicot-stem"
+          ]
+        },
+        {
+          "id": "cs-c9",
+          "front": "In this eudicot root stained with Phloroglucinol-HCl, what forms the bright red concentric boundary line just outside the xylem star?",
+          "hint": "An innermost cortical monolayer possessing suberized Casparian strips.",
+          "back": "The **endodermis** with its **Casparian strips**. Phloroglucinol stains the hydrophobic polymer **suberin** (as well as lignin), highlighting the boundary that seals off the apoplast before the stele.",
+          "citation": "Exercise 4, Slide 7-8",
+          "image": "images/bot-1121-comparison/eudicot_root_phloroglucinol_suberin.jpg",
+          "imageDescription": "Eudicot root cross-section after phloroglucinol treatment showing red-stained endodermal Casparian strips (suberin) surrounding the central xylem star.",
+          "tags": [
+            "endodermis",
+            "casparian-strip",
+            "suberin",
+            "eudicot-root"
+          ]
+        },
+        {
+          "id": "cs-c10",
+          "front": "Compare open vs. closed vascular bundles: Why can eudicot stems undergo secondary woody growth, while monocot stems cannot?",
+          "hint": "Is there meristematic vascular cambium retained between xylem and phloem?",
+          "back": "• **Eudicot Stem Bundles are OPEN**: A strip of meristematic **vascular cambium** remains between primary xylem and primary phloem, allowing the stem to produce secondary xylem (wood) and secondary phloem (inner bark).\n• **Monocot Stem Bundles are CLOSED**: All cells differentiate completely into primary xylem and phloem, encased in a sclerenchyma bundle sheath. **No vascular cambium exists**, so monocots cannot produce true secondary wood.",
+          "citation": "Lecture 4, Slides 16-20",
+          "image": "images/bot-1121-comparison/eudicot_stem_bundle_diagram.png",
+          "imageDescription": "Diagram of open eudicot vascular bundle showing vascular cambium positioned between xylem and phloem.",
+          "tags": [
+            "open-vs-closed",
+            "cambium",
+            "secondary-growth"
+          ]
+        }
+      ],
+      "quizzes": [
+        {
+          "question": "A lab student observes a primary eudicot stem cross-section under a light microscope. Moving from the exterior of a vascular bundle toward the center of the stem, in what order will they encounter the vascular tissue components and ground tissue?",
+          "options": [
+            "Sclerenchyma bundle cap -> Phloem -> Xylem -> Pith",
+            "Xylem -> Phloem -> Sclerenchyma bundle cap -> Cortex",
+            "Phloem -> Xylem -> Sclerenchyma bundle cap -> Pith",
+            "Cortex -> Xylem -> Phloem -> Sclerenchyma bundle cap"
+          ],
+          "correctIndex": 0,
+          "explanation": "In a typical primary eudicot stem (such as Helianthus), moving inward from the exterior across a vascular bundle toward the central pith, one encounters the sclerenchyma bundle cap on the outermost periphery of the bundle, followed internally by the phloem, then the xylem (with large radially arranged vessels), and finally the central pith parenchyma.",
+          "socraticHint": "Think about which structural tissue provides an outer protective arch or cap over the conductive tissues in a eudicot vascular bundle.",
+          "citation": "BOT 1121 F2026 Lecture 4 - Primary Growth (stems).pdf (Page 20)",
+          "id": "bot-1121-primary-growth-in-q1",
+          "station": "Station 1: Stem Morphology & Nodes"
+        },
+        {
+          "question": "Based on the course material, which group of plants exclusively contains monocot examples?",
+          "options": [
+            "Rose, Carrot, Tomato",
+            "Corn, Lily, Ginger",
+            "Bean, Cottonwood, Tomato",
+            "Grasses, Bean, Carrot"
+          ],
+          "correctIndex": 1,
+          "explanation": "According to the lecture materials (Slide 18), Corn, Lily, Grasses, Onion, and Ginger are classified together as monocots. In contrast, Bean, Rose, Cottonwood, Carrot, and Tomato are eudicots.",
+          "socraticHint": "Review the slide listing specific example species categorized under monocot and eudicot stem types.",
+          "citation": "BOT 1121 F2026 Lecture 4 - Primary Growth (stems).pdf (Page 18)",
+          "id": "bot-1121-primary-growth-in-q2",
+          "station": "Station 2: Taxonomic Classification & Cotyledons"
+        },
+        {
+          "question": "A tree increases in height every year primarily through mitosis occurring at which specific locations?",
+          "options": [
+            "Lateral meristems along the middle of internodes only",
+            "Pith rays within the central stem core",
+            "Apical meristems at the tips of branches and in leaf axils (axillary buds)",
+            "Sclerenchyma bundle caps within mature vascular bundles"
+          ],
+          "correctIndex": 2,
+          "explanation": "Primary growth increases the plant length (height) and produces primary tissues. This vertical growth occurs through active cell division (mitosis) located at the apical meristems found at the tips of every branch and in leaf axils (axillary buds).",
+          "socraticHint": "Recall which meristematic regions drive elongation vs lateral thickening in plant stems.",
+          "citation": "BOT 1121 F2026 Lecture 4 - Primary Growth (stems).pdf (Page 2)",
+          "id": "bot-1121-primary-growth-in-q3",
+          "station": "Station 3: Apical Meristem & Mitosis"
+        },
+        {
+          "id": "bot4-q1",
+          "station": "Station 4: Stem Vascular Pattern Identification",
+          "question": "You are given an unknown microscope slide of a primary plant stem cross-section. The vascular bundles are arranged in a single circular ring surrounding a central region of thin-walled ground parenchyma. How should this specimen be classified?",
+          "options": [
+            "Monocot stem",
+            "Eudicot stem",
+            "Monocot root",
+            "Eudicot root"
+          ],
+          "correctIndex": 1,
+          "explanation": "A ring of vascular bundles surrounding a central pith is the hallmark diagnostic feature of a primary eudicot stem. Monocot stems feature scattered bundles throughout ground tissue, eudicot roots have a solid central stele without pith, and monocot roots have a polyarch vascular ring with pith.",
+          "socraticHint": "Notice whether the bundles are in a circle or scattered, and whether a central pith is present.",
+          "citation": "Exercise 4, Slide 5",
+          "image": "images/bot-1121-ex4/eudicot_stem_ring_bundles.jpg",
+          "imageDescription": "Eudicot stem cross-section showing ring arrangement of vascular bundles around central pith."
+        },
+        {
+          "id": "bot4-q2",
+          "station": "Station 5: Root Histochemistry & Casparian Strip",
+          "question": "A botany student drops phloroglucinol-HCl onto a cross-section of a buttercup (Ranunculus) eudicot root. In addition to the central xylem vessels, a single concentric ring of cell walls just outside the vascular cylinder turns reddish-pink. What polymer in what anatomical layer is reacting?",
+          "options": [
+            "Cutin in the epidermal cuticle",
+            "Cellulose in the cortical parenchyma",
+            "Suberin within the endodermal Casparian strips",
+            "Pectin in the pericycle cell walls"
+          ],
+          "correctIndex": 2,
+          "explanation": "In addition to lignin, phloroglucinol stains suberin. In plant roots, suberin is the primary hydrophobic constituent of the Casparian strip in the endodermis, which forms an apoplastic barrier regulating water and mineral uptake into the stele.",
+          "socraticHint": "Which polymer hardens and waterproofs the endodermis, forming the Casparian strip?",
+          "citation": "Exercise 4, Slide 7-8",
+          "image": "images/bot-1121-ex4/eudicot_root_phloroglucinol_suberin.jpg",
+          "imageDescription": "Eudicot root stained with phloroglucinol highlighting endodermal Casparian strips (suberin) and central xylem."
+        },
+        {
+          "id": "bot4-q3",
+          "station": "Station 6: Monocot Stem Micrograph Analysis",
+          "question": "Under 100x magnification, an instructor points to a slide displaying vascular bundles dispersed without pattern throughout parenchymatous ground tissue. Each bundle is enveloped by a dark ring of thick-walled sclerenchyma cells. What is this specimen, and what is the dark protective ring called?",
+          "options": [
+            "Eudicot stem; Pericycle",
+            "Monocot stem; Bundle sheath",
+            "Eudicot root; Endodermis",
+            "Monocot root; Exodermis"
+          ],
+          "correctIndex": 1,
+          "explanation": "Monocot stems (such as Zea mays) feature scattered vascular bundles, each wrapped by a protective bundle sheath made of lignified sclerenchyma fibers that provide mechanical support to the closed collateral bundle.",
+          "socraticHint": "What plant group has scattered stem bundles, and what structure wraps around the outside of each bundle?",
+          "citation": "Exercise 4, Slide 9-10",
+          "image": "images/bot-1121-ex4/monocot_stem_scattered_bundles.jpg",
+          "imageDescription": "Monocot stem (Zea mays) showing scattered bundles with protective bundle sheaths."
+        },
+        {
+          "id": "bot4-q4",
+          "station": "Station 7: Root Anatomy Diagnostic",
+          "question": "Looking at the cross-section of a plant root, you identify an alternating ring of xylem vessels and phloem sieve elements surrounding a wide central core of parenchyma (pith). Is this a eudicot or monocot root?",
+          "options": [
+            "Eudicot root, because all roots have a central pith.",
+            "Eudicot root, because only eudicots form circular rings of vascular tissue.",
+            "Monocot root, because monocot roots possess a vascular ring surrounding a central pith, whereas eudicot roots have a solid xylem core with no pith.",
+            "Monocot stem, because monocot stems always have a prominent central pith."
+          ],
+          "correctIndex": 2,
+          "explanation": "Monocot roots characteristically possess a polyarch ring of alternating xylem and phloem encircling a well-developed central parenchymatous pith. Eudicot roots, by contrast, completely lack a pith and have a solid central star/cross of xylem.",
+          "socraticHint": "Does a eudicot root have a pith at its center, or a solid star of xylem?",
+          "citation": "Exercise 4, Slide 11",
+          "image": "images/bot-1121-ex4/monocot_root_cross_section.jpg",
+          "imageDescription": "Monocot root showing a ring of vascular bundles encircling a prominent central pith."
+        },
+        {
+          "id": "bot4-q5",
+          "station": "Station 8: Seedling Emergence & Hypocotyl Hook",
+          "question": "In germinating bean seedlings, the hypocotyl forms a pronounced hook that pushes through the soil ahead of the cotyledons. What is the adaptive significance of this growth habit?",
+          "options": [
+            "It accelerates photosynthesis in subterranean soil before reaching light.",
+            "It protects the fragile shoot apical meristem from abrasive damage against soil particles during upward emergence.",
+            "It absorbs gravitational moisture directly from the topsoil.",
+            "It prevents root hairs from establishing premature fungal mycorrhizae."
+          ],
+          "correctIndex": 1,
+          "explanation": "The hypocotyl arch pulls the delicate shoot apical meristem and cotyledons backward behind it, shielding the meristematic dome from friction and physical abrasions caused by coarse soil particles as the seedling breaks through the crust.",
+          "socraticHint": "Why would an embryonic shoot lead with a curved stem hook instead of pointing its delicate growing tip straight upward into abrasive dirt?",
+          "citation": "Exercise 4, Slide 3",
+          "image": "images/bot-1121-ex4/seedling_germination_bean.jpg",
+          "imageDescription": "Germinating bean seedling displaying the protective hypocotyl arch."
+        },
+        {
+          "id": "cs-q1",
+          "station": "Station 9: Unknown Stem Identification (Eudicot)",
+          "question": "You look through the ocular lens at 40x and observe vascular bundles arranged in a distinct circular perimeter around a wide central core of ground parenchyma. The outer region has a narrow cortex. How do you classify this specimen?",
+          "options": [
+            "Monocot stem",
+            "Primary eudicot stem",
+            "Monocot root",
+            "Eudicot root"
+          ],
+          "correctIndex": 1,
+          "explanation": "A ring of discrete collateral vascular bundles surrounding a central pith is the defining diagnostic hallmark of a primary eudicot stem. Monocot stems have scattered bundles, eudicot roots have a solid star with no pith, and monocot roots have a wide cortex with an endodermis.",
+          "socraticHint": "Notice the distinct circular ring of bundles and the central pith.",
+          "citation": "Exercise 4, Slide 5",
+          "image": "images/bot-1121-comparison/eudicot_stem_ring_bundles.jpg",
+          "imageDescription": "Eudicot stem cross-section with a circular ring of vascular bundles around a central pith."
+        },
+        {
+          "id": "cs-q2",
+          "station": "Station 10: Unknown Stem Identification (Monocot)",
+          "question": "In this cross-section of a crop plant stem, vascular bundles are distributed across the entire internal diameter without forming an organized ring. There is no clear boundary between pith and cortex. What is this specimen?",
+          "options": [
+            "Monocot stem (e.g., corn / Zea mays)",
+            "Eudicot stem (e.g., sunflower / Helianthus)",
+            "Monocot root",
+            "Gymnosperm stem"
+          ],
+          "correctIndex": 0,
+          "explanation": "Vascular bundles scattered throughout the ground parenchyma without an orderly ring or separate pith/cortex is the classic arrangement of monocot stems such as Zea mays (corn).",
+          "socraticHint": "Can you find a circular ring, or are the bundles scattered throughout?",
+          "citation": "Exercise 4, Slide 9",
+          "image": "images/bot-1121-comparison/monocot_stem_scattered_bundles.jpg",
+          "imageDescription": "Monocot stem cross-section showing scattered vascular bundles."
+        },
+        {
+          "id": "cs-q3",
+          "station": "Station 11: Unknown Root Identification (Eudicot)",
+          "question": "Examining this root cross-section under 100x magnification, you see a thick cortex surrounding a central vascular stele. The primary xylem forms a solid 4-pointed star in the exact center, with no parenchymatous pith. What is this specimen?",
+          "options": [
+            "Eudicot root",
+            "Monocot root",
+            "Eudicot stem",
+            "Monocot stem"
+          ],
+          "correctIndex": 0,
+          "explanation": "A root stele featuring a solid central xylem core shaped like a star/cross with phloem in the bays and completely lacking a pith is the definitive diagnostic architecture of a eudicot root.",
+          "socraticHint": "Is there a pith in the center, or is the center filled with a solid star of xylem?",
+          "citation": "Exercise 4, Slide 7",
+          "image": "images/bot-1121-comparison/eudicot_root_anatomy.jpg",
+          "imageDescription": "Eudicot root cross-section showing solid central xylem star with no pith."
+        },
+        {
+          "id": "cs-q4",
+          "station": "Station 12: Unknown Root Identification (Monocot)",
+          "question": "In this root cross-section, a wide cylinder of parenchymatous pith occupies the center, encircled by an alternating ring of numerous xylem vessels and phloem clusters. What is this specimen?",
+          "options": [
+            "Eudicot root",
+            "Monocot root",
+            "Eudicot stem",
+            "Monocot stem"
+          ],
+          "correctIndex": 1,
+          "explanation": "A polyarch alternating ring of xylem and phloem strands encircling a large central parenchymatous pith is found exclusively in monocot roots (such as Smilax or corn). Eudicot roots have a solid xylem star with no pith.",
+          "socraticHint": "What kind of root possesses a vascular ring enclosing a central pith?",
+          "citation": "Exercise 4, Slide 11",
+          "image": "images/bot-1121-comparison/monocot_root_cross_section.jpg",
+          "imageDescription": "Monocot root cross-section displaying an alternating vascular ring surrounding a central pith."
+        },
+        {
+          "id": "cs-q5",
+          "station": "Station 13: Practical Exam Trap (Stem vs. Root)",
+          "question": "A lab student is confused: both this slide and a eudicot stem slide feature a circular ring surrounding a central core of parenchyma. What anatomical evidence proves this slide is a MONOCOT ROOT and NOT a eudicot stem?",
+          "options": [
+            "It has a thin epidermal cuticle and no cortex.",
+            "It has separate alternating strands of xylem and phloem, a very wide cortex, and an endodermis.",
+            "It has collateral bundles containing vascular cambium.",
+            "It possesses large protoxylem lacunae in the pith."
+          ],
+          "correctIndex": 1,
+          "explanation": "In monocot roots, xylem and phloem are in separate alternating radial strands (not united into collateral bundles), the cortex is very wide, and an endodermis encloses the vascular cylinder. Eudicot stems have narrow cortices, collateral bundles, and no endodermis.",
+          "socraticHint": "Look closely at whether xylem and phloem are paired in the same bundle or in separate alternating strands, and look at the cortex width.",
+          "citation": "Exercise 4, Slides 5 & 11",
+          "image": "images/bot-1121-comparison/monocot_root_detail.jpg",
+          "imageDescription": "Monocot root detail showing wide cortex, endodermis boundary, and alternating xylem/phloem strands around central pith."
+        },
+        {
+          "id": "cs-q6",
+          "station": "Station 14: High-Power Bundle Histology (Monkey Face)",
+          "question": "Observing an individual vascular bundle at 400x magnification, you see two enormous circular vessels forming 'eyes', a cap of phloem, an air cavity, and a surrounding rim of thick-walled fibers. What is this bundle type and specimen?",
+          "options": [
+            "Closed collateral bundle of a monocot stem",
+            "Open collateral bundle of a eudicot stem",
+            "Radial vascular bundle of a eudicot root",
+            "Concentric vascular bundle of a fern rhizome"
+          ],
+          "correctIndex": 0,
+          "explanation": "The 'monkey face' bundle consisting of two large metaxylem vessel eyes, a phloem cap, protoxylem lacuna, and an encasing sclerenchyma bundle sheath is a closed collateral bundle characteristic of monocot stems.",
+          "socraticHint": "Which plant group has closed 'monkey face' bundles wrapped by a fiber sheath?",
+          "citation": "Exercise 4, Slide 10",
+          "image": "images/bot-1121-comparison/monocot_stem_bundle_detail.jpg",
+          "imageDescription": "High-magnification monocot vascular bundle showing metaxylem vessel 'eyes', phloem cap, and bundle sheath."
+        },
+        {
+          "id": "cs-q7",
+          "station": "Station 15: Histochemical Staining Diagnostic (Lignin)",
+          "question": "In this eudicot stem treated with Phloroglucinol-HCl, brilliant red/magenta staining occurs at both the inner and outer poles of each bundle. What cell types are responsible for this positive lignin test?",
+          "options": [
+            "Inner xylem tracheary elements and outer primary phloem fiber caps",
+            "Inner pith parenchyma and outer epidermal collenchyma",
+            "Inner vascular cambium and outer sieve-tube elements",
+            "Inner cortex collenchyma and outer periderm suberin"
+          ],
+          "correctIndex": 0,
+          "explanation": "Phloroglucinol specifically stains lignified secondary cell walls red. In eudicot stems, both the xylem vessel elements/tracheids (inner pole) and primary phloem fiber caps (outer pole) have thick, lignified secondary walls.",
+          "socraticHint": "Which cells conduct water on the inside, and which sclerenchyma fibers form caps on the outside?",
+          "citation": "Exercise 4, Slide 6",
+          "image": "images/bot-1121-comparison/eudicot_stem_phloroglucinol.jpg",
+          "imageDescription": "Eudicot stem cross-section stained with Phloroglucinol-HCl highlighting red xylem vessels and outer phloem fiber caps."
+        },
+        {
+          "id": "cs-q8",
+          "station": "Station 16: Root Endodermis Staining (Suberin)",
+          "question": "In this root cross-section treated with phloroglucinol, a red ring outlines the central stele. What anatomical layer is stained, and what hydrophobic polymer is reacting?",
+          "options": [
+            "Pericycle reacting with cellulose",
+            "Endodermis reacting with suberin in Casparian strips",
+            "Epidermis reacting with cutin",
+            "Exodermis reacting with pectin"
+          ],
+          "correctIndex": 1,
+          "explanation": "Phloroglucinol reacts with suberin as well as lignin. In plant roots, suberin is the primary hydrophobic component of the Casparian strip in the endodermis, which stains red.",
+          "socraticHint": "Which innermost layer of the root cortex contains Casparian strips made of suberin?",
+          "citation": "Exercise 4, Slide 7-8",
+          "image": "images/bot-1121-comparison/eudicot_root_phloroglucinol_suberin.jpg",
+          "imageDescription": "Eudicot root cross-section after phloroglucinol treatment showing red-stained endodermal Casparian strips (suberin)."
+        },
+        {
+          "id": "cs-q9",
+          "station": "Station 17: Open vs. Closed Vascular Bundles",
+          "question": "Why can an oak or sunflower (eudicot) stem form a woody trunk with rings of secondary xylem, whereas a bamboo or palm (monocot) stem cannot?",
+          "options": [
+            "Eudicot bundles are open with vascular cambium; monocot bundles are closed without cambium.",
+            "Eudicots produce chloroplasts in their xylem; monocots do not.",
+            "Monocots lack phloem fibers needed to support secondary growth.",
+            "Eudicot stems lack a pith, allowing secondary wood to fill the center."
+          ],
+          "correctIndex": 0,
+          "explanation": "Eudicot vascular bundles are 'open' because they retain active meristematic vascular cambium between primary xylem and primary phloem, enabling secondary growth (wood). Monocot bundles are 'closed' (surrounded by bundle sheaths) with no cambium.",
+          "socraticHint": "What meristematic tissue is present between xylem and phloem in eudicots but missing in monocots?",
+          "citation": "Lecture 4, Slide 16",
+          "image": "images/bot-1121-comparison/eudicot_stem_bundle_diagram.png",
+          "imageDescription": "Open eudicot vascular bundle diagram highlighting vascular cambium between xylem and phloem."
+        },
+        {
+          "id": "cs-q10",
+          "station": "Station 18: Mixed Specimen Speed Identification",
+          "question": "Review these 4 classic cross-section patterns. Which combination correctly pairs the organ and clade with its primary diagnostic feature?",
+          "options": [
+            "Eudicot Stem = Scattered bundles; Monocot Stem = Vascular ring with pith",
+            "Eudicot Root = Vascular ring with pith; Monocot Root = Solid xylem star",
+            "Eudicot Stem = Circular ring of bundles with pith; Monocot Root = Polyarch ring with pith; Eudicot Root = Solid xylem star (no pith)",
+            "Monocot Stem = Circular ring of bundles; Eudicot Stem = Polyarch ring without pith"
+          ],
+          "correctIndex": 2,
+          "explanation": "The definitive rule: Eudicot Stem = circular ring of bundles around pith; Monocot Stem = scattered bundles; Eudicot Root = solid central xylem star with no pith; Monocot Root = alternating polyarch ring around a central pith.",
+          "socraticHint": "Review the master comparison rule: which stem has a ring, which stem is scattered, which root has a star, and which root has a pith?",
+          "citation": "Lecture 4 & Exercise 4",
+          "image": "images/bot-1121-comparison/monocot_eudicot_traits_chart.png",
+          "imageDescription": "Master diagnostic summary table comparing Monocots vs Eudicots across all vegetative organs."
+        }
+      ]
+    },
+    {
+      "id": "bot-1121-secondary-growth",
+      "course": "BOT-1121",
+      "title": "BOT-1121: Secondary Growth — Vascular & Cork Cambium",
+      "description": "Atomic, photo-anchored flashcards drilling secondary growth: lateral meristems, vascular cambium (fusiform vs. ray initials, periclinal vs. anticlinal divisions), wood anatomy (secondary xylem, growth rings, sapwood vs. heartwood, tyloses), and bark/periderm (cork cambium, phellem, phelloderm, lenticels).",
+      "source": "Botany: Structure of Woody Plants (Mauseth Ch. 8) & BOT 1121 Lab 4",
+      "flashcards": [
+        {
+          "id": "sec-c1",
+          "front": "What is the primary difference between **primary growth** and **secondary growth** in plants?",
+          "hint": "Think about vertical elongation vs. lateral thickening.",
+          "back": "• **Primary growth**: Increases stem and root **length** (produced by apical meristems).\n• **Secondary growth**: Increases stem and root **girth / diameter** (produced by lateral meristems).",
+          "citation": "Mauseth Ch. 8, p. 536",
+          "tags": [
+            "growth",
+            "meristems",
+            "foundations"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_11_wood_block_3d_planes.jpg",
+          "imageCaption": "🔬 Plant Growth Planes (Click to zoom 🔍)",
+          "imageDescription": "3D block diagram illustrating radial expansion and lateral thickness resulting from secondary growth."
+        },
+        {
+          "id": "sec-c2",
+          "front": "Which two **lateral meristems** are responsible for secondary growth in woody plants?",
+          "hint": "One produces conducting vascular tissues; the other produces protective outer bark.",
+          "back": "1. **Vascular Cambium**: Produces secondary xylem (wood) and secondary phloem.\n2. **Cork Cambium (Phellogen)**: Produces the periderm (outer bark).",
+          "citation": "Mauseth Ch. 8, p. 541",
+          "tags": [
+            "meristems",
+            "cambium",
+            "lateral-growth"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_20_cambial_zone_xylem_phloem.jpg",
+          "imageCaption": "🔬 Lateral Meristem Overview (Click to zoom 🔍)",
+          "imageDescription": "Transverse section showing the cylinder of vascular cambium situated between xylem and phloem, beneath the periderm."
+        },
+        {
+          "id": "sec-c3",
+          "front": "From which two specific regions does the **vascular cambium** originate to form a continuous ring?",
+          "hint": "One part comes from inside the vascular bundles; the other from parenchyma between bundles.",
+          "back": "1. **Fascicular cambium**: Residual procambium located *inside* the primary vascular bundles.\n2. **Interfascicular cambium**: Cortex/pith ray parenchyma *between* the bundles that resumes cell division.",
+          "citation": "Mauseth Ch. 8, p. 542",
+          "tags": [
+            "vascular-cambium",
+            "tissues",
+            "origin"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_3_fascicular_interfascicular_cambium.jpg",
+          "imageCaption": "🔬 Cambium Ring Formation (Click to zoom 🔍)",
+          "imageDescription": "Micrograph showing fascicular cambium inside vascular bundles linking with interfascicular cambium in the pith rays to form a continuous cylinder."
+        },
+        {
+          "id": "sec-c4",
+          "front": "What are the two distinct cell types found inside the **vascular cambium**?",
+          "hint": "One is tall and vertically elongated; the other is small and cuboidal.",
+          "back": "1. **Fusiform initials**: Tall, vertically elongated cells.\n2. **Ray initials**: Small, roughly cuboidal / isodiametric cells.",
+          "citation": "Mauseth Ch. 8, p. 545",
+          "tags": [
+            "vascular-cambium",
+            "cell-types",
+            "histology"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_4_fusiform_and_ray_initials.jpg",
+          "imageCaption": "🔬 Cambium Cell Types in Tangential View (Click to zoom 🔍)",
+          "imageDescription": "Tangential section of vascular cambium showing tall fusiform initials and clusters of small, rounded ray initials."
+        },
+        {
+          "id": "sec-c5",
+          "front": "What structural system do **fusiform initials** produce in secondary xylem and phloem?",
+          "hint": "Think of the vertical up-and-down conduits of the plant stem.",
+          "back": "The **Axial System (Vertical System)**:\n• **Secondary xylem**: Tracheids, vessel elements, wood fibers, axial parenchyma.\n• **Secondary phloem**: Sieve-tube elements, companion cells, phloem fibers.",
+          "citation": "Mauseth Ch. 8, p. 546",
+          "tags": [
+            "axial-system",
+            "fusiform-initials",
+            "xylem-phloem"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_5_cell_lineages_periclinal_divisions.jpg",
+          "imageCaption": "🔬 Cambial Differentiation Lineage (Click to zoom 🔍)",
+          "imageDescription": "Diagram demonstrating how fusiform initials divide to generate the vertically oriented axial conduits of wood and inner bark."
+        },
+        {
+          "id": "sec-c6",
+          "front": "What structural system do **ray initials** produce, and what is its primary role?",
+          "hint": "Think of horizontal, spoke-like transport across the trunk.",
+          "back": "The **Radial System (Xylem and Phloem Rays)**:\n• Composed of horizontal ray parenchyma cells.\n• **Role**: Transports water, minerals, and carbohydrates **radially (horizontally)** across the stem, and stores starch/nutrients.",
+          "citation": "Mauseth Ch. 8, p. 550",
+          "tags": [
+            "ray-initials",
+            "radial-system",
+            "rays"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_15_wood_xylem_rays.jpg",
+          "imageCaption": "🔬 Radial Rays in Wood (Click to zoom 🔍)",
+          "imageDescription": "Transverse and radial sections showing prominent multiseriate ray parenchyma traversing secondary xylem horizontally."
+        },
+        {
+          "id": "sec-c7",
+          "front": "What is a **periclinal division** in the vascular cambium, and what does it produce?",
+          "hint": "The division plane is parallel to the outer surface of the stem.",
+          "back": "A division plane **parallel** to the outer stem surface:\n• Produces **Secondary Xylem** toward the **inside** of the stem.\n• Produces **Secondary Phloem** toward the **outside** of the stem.",
+          "citation": "Mauseth Ch. 8, p. 547",
+          "tags": [
+            "cell-division",
+            "periclinal",
+            "cambium"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_5_cell_lineages_periclinal_divisions_1.jpg",
+          "imageCaption": "🔬 Periclinal Division Orientation (Click to zoom 🔍)",
+          "imageDescription": "Lineage diagram showing periclinal divisions generating inward xylem daughter cells and outward phloem daughter cells."
+        },
+        {
+          "id": "sec-c8",
+          "front": "What is an **anticlinal division** in the vascular cambium, and why is it necessary?",
+          "hint": "The division plane is perpendicular to the stem surface.",
+          "back": "A division plane **perpendicular** to the stem surface:\n• **Why necessary**: It adds new cambial initials to the ring so the vascular cambium can **expand its own circumference** as the tree grows thicker.",
+          "citation": "Mauseth Ch. 8, p. 547",
+          "tags": [
+            "cell-division",
+            "anticlinal",
+            "girth"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_5_cell_lineages_periclinal_divisions.jpg",
+          "imageCaption": "🔬 Circumferential Expansion (Click to zoom 🔍)",
+          "imageDescription": "Diagram showing anticlinal cell divisions increasing the total number of cambial initials to accommodate stem girth increase."
+        },
+        {
+          "id": "sec-c9",
+          "front": "Which botanical tissue constitutes what we commonly refer to as **\"wood\"**?",
+          "hint": "Lignified water-conducting secondary tissue.",
+          "back": "**Secondary Xylem**.\n• All wood accumulated inside tree trunks and branches consists of secondary xylem produced to the interior of the vascular cambium.",
+          "citation": "Mauseth Ch. 8, p. 550",
+          "tags": [
+            "wood",
+            "secondary-xylem",
+            "anatomy"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_11_wood_block_3d_planes.jpg",
+          "imageCaption": "🔬 Wood Structural Architecture (Click to zoom 🔍)",
+          "imageDescription": "Scanning electron micrograph of secondary xylem showing tracheary elements, fibers, and ray parenchyma forming wood."
+        },
+        {
+          "id": "sec-c10",
+          "front": "Why is there vastly more **secondary xylem** inside a tree trunk than **secondary phloem**?",
+          "hint": "Compare what happens to tissues pushed toward the core versus toward the outside.",
+          "back": "1. The cambium produces secondary xylem cells at a **much higher rate**.\n2. **Secondary xylem accumulates permanently** year after year.\n3. **Secondary phloem is pushed outward**, stretched, crushed, and sloughed off as bark.",
+          "citation": "Mauseth Ch. 8, p. 571",
+          "tags": [
+            "secondary-xylem",
+            "secondary-phloem",
+            "accumulation"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_20_cambial_zone_xylem_phloem.jpg",
+          "imageCaption": "🔬 Xylem vs. Phloem Proportion (Click to zoom 🔍)",
+          "imageDescription": "Stem cross-section showing huge buildup of internal secondary xylem compared to a thin layer of active secondary phloem."
+        },
+        {
+          "id": "sec-c11",
+          "front": "How do you distinguish **early wood (springwood)** from **late wood (summerwood)** under the microscope?",
+          "hint": "Compare lumen diameter and cell wall thickness.",
+          "back": "• **Early wood (Springwood)**: Wide lumen diameter, thinner walls (optimized for maximum water conduction during rapid spring growth).\n• **Late wood (Summerwood)**: Narrow lumen diameter, thicker walls (optimized for mechanical strength).",
+          "citation": "Mauseth Ch. 8, p. 565",
+          "tags": [
+            "growth-rings",
+            "early-wood",
+            "late-wood"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_17_growth_rings_early_late_wood.jpg",
+          "imageCaption": "🔬 Growth Ring Micrograph (Click to zoom 🔍)",
+          "imageDescription": "Micrograph displaying the abrupt transition from small, thick-walled late wood cells to large, wide-lumened early wood cells."
+        },
+        {
+          "id": "sec-c12",
+          "front": "What causes the sharp, visible boundary of an **annual growth ring**?",
+          "hint": "It is an abrupt seasonal contrast between two successive cell types.",
+          "back": "The **abrupt transition** between the small, dense, thick-walled cells of **late wood** (formed at the end of autumn) and the large, wide-lumened cells of **early wood** (formed the following spring).",
+          "citation": "Mauseth Ch. 8, p. 565",
+          "tags": [
+            "annual-rings",
+            "dendrochronology",
+            "anatomy"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_17_growth_rings_early_late_wood.jpg",
+          "imageCaption": "🔬 Annual Ring Demarcation (Click to zoom 🔍)",
+          "imageDescription": "High-magnification cross-section showing distinct growth rings separated by dense late-wood boundaries."
+        },
+        {
+          "id": "sec-c13",
+          "front": "What is the functional difference between **sapwood** and **heartwood**?",
+          "hint": "One actively conducts sap/water; the other is dark, dead, and rot-resistant.",
+          "back": "• **Sapwood (outer, lighter wood)**: Actively conducts water and dissolved minerals from roots to shoots.\n• **Heartwood (inner, darker wood)**: Older, non-conducting wood plugged with resins, tannins, and tyloses for structural support and decay resistance.",
+          "citation": "Mauseth Ch. 8, p. 569",
+          "tags": [
+            "sapwood",
+            "heartwood",
+            "xylem"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_18_heartwood_vs_sapwood.jpg",
+          "imageCaption": "🔬 Trunk Cross-Section (Click to zoom 🔍)",
+          "imageDescription": "Oak trunk cross-section showing pale, water-conducting sapwood surrounding a dark, aromatic heartwood core."
+        },
+        {
+          "id": "sec-c14",
+          "front": "What are **tyloses**, and what is their role in heartwood formation?",
+          "hint": "Balloon-like outgrowths that plug vessel lumens.",
+          "back": "**Balloon-like outgrowths** from adjacent parenchyma cells that push through pits into vessel element lumens, permanently sealing them off to prevent pathogen spread and water leakage in non-functional heartwood.",
+          "citation": "Mauseth Ch. 8, p. 571",
+          "tags": [
+            "tyloses",
+            "vessels",
+            "heartwood"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_12_vessel_elements_secondary_xylem.jpg",
+          "imageCaption": "🔬 Vessel Lumen Structure (Click to zoom 🔍)",
+          "imageDescription": "Micrograph illustrating vessel lumens invaded by surrounding parenchyma protoplasts forming tyloses."
+        },
+        {
+          "id": "sec-c15",
+          "front": "Why must a woody plant form a **cork cambium** once secondary growth begins?",
+          "hint": "What happens to the primary epidermis as the stem expands?",
+          "back": "As secondary xylem expands the stem girth, the original **epidermis stretches, tears, and dies**. The **cork cambium** arises to produce a new, waterproof protective outer layer (**periderm**).",
+          "citation": "Mauseth Ch. 8, p. 575",
+          "tags": [
+            "cork-cambium",
+            "periderm",
+            "epidermis"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_23_cork_cambium_phellogen_origin.jpg",
+          "imageCaption": "🔬 Epidermal Rupture & Cambium Origin (Click to zoom 🔍)",
+          "imageDescription": "Stem cross-section showing subepidermal cortex parenchyma cells dedifferentiating into the first cork cambium."
+        },
+        {
+          "id": "sec-c16",
+          "front": "What is the formal botanical name for the **cork cambium**, and where does it originate?",
+          "hint": "Starts with 'phello-'. Originates in outer cortex cells.",
+          "back": "**Phellogen**.\n• Originates from subepidermal **cortex parenchyma cells** (or later, from parenchyma in older secondary phloem).",
+          "citation": "Mauseth Ch. 8, p. 575",
+          "tags": [
+            "phellogen",
+            "cork-cambium",
+            "cortex"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_23_cork_cambium_phellogen_origin.jpg",
+          "imageCaption": "🔬 Phellogen Cell Layer (Click to zoom 🔍)",
+          "imageDescription": "Micrograph of the subepidermal layer showing the single-cell-thick band of dividing phellogen cells."
+        },
+        {
+          "id": "sec-c17",
+          "front": "What two tissues does the cork cambium (phellogen) produce, and in which directions?",
+          "hint": "One layer faces outward (cork); the other faces inward.",
+          "back": "• **Outward**: **Phellem (Cork cells)** — dead at maturity, walls impregnated with waterproof suberin.\n• **Inward**: **Phelloderm** — living parenchyma cells.",
+          "citation": "Mauseth Ch. 8, p. 576",
+          "tags": [
+            "phellem",
+            "phelloderm",
+            "periderm"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_24_periderm_cork_phelloderm.jpg",
+          "imageCaption": "🔬 Periderm Stratification (Click to zoom 🔍)",
+          "imageDescription": "Cross-section showing outer phellem (cork), middle phellogen (cork cambium), and inner phelloderm layers."
+        },
+        {
+          "id": "sec-c18",
+          "front": "What three tissue layers make up the **periderm**?",
+          "hint": "Phellem + Phellogen + Phelloderm.",
+          "back": "**Periderm = Phellem (Cork) + Phellogen (Cork Cambium) + Phelloderm**.\n• The periderm is the protective secondary dermal tissue system replacing the epidermis.",
+          "citation": "Mauseth Ch. 8, p. 576",
+          "tags": [
+            "periderm",
+            "cork",
+            "anatomy"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_24_periderm_cork_phelloderm.jpg",
+          "imageCaption": "🔬 The Three Periderm Layers (Click to zoom 🔍)",
+          "imageDescription": "Micrograph showing the periderm boundary consisting of radially arranged cork cells, meristematic phellogen, and phelloderm."
+        },
+        {
+          "id": "sec-c19",
+          "front": "What hydrophobic chemical polymer waterproofs **cork (phellem)** cell walls?",
+          "hint": "The same waxy substance found in the Casparian strip of roots.",
+          "back": "**Suberin**.\n• Suberin is a waxy lipid polymer deposited in cork secondary walls, making them impermeable to water, gases, and pathogens.",
+          "citation": "Mauseth Ch. 8, p. 576",
+          "tags": [
+            "suberin",
+            "cork",
+            "chemistry"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_24_periderm_cork_phelloderm.jpg",
+          "imageCaption": "🔬 Suberized Cork Cell Walls (Click to zoom 🔍)",
+          "imageDescription": "Micrograph detail of dense, compact cork cells exhibiting dark, suberin-impregnated cell walls."
+        },
+        {
+          "id": "sec-c20",
+          "front": "What anatomical structure defines the boundary line between **bark** and **wood**?",
+          "hint": "The lateral meristem that creates both.",
+          "back": "The **Vascular Cambium**.\n• **Wood**: All tissues **interior** to the vascular cambium (secondary xylem).\n• **Bark**: All tissues **exterior** to the vascular cambium (secondary phloem + periderms).",
+          "citation": "Mauseth Ch. 8, p. 572",
+          "tags": [
+            "bark",
+            "wood",
+            "vascular-cambium"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_20_cambial_zone_xylem_phloem.jpg",
+          "imageCaption": "🔬 Bark vs. Wood Boundary (Click to zoom 🔍)",
+          "imageDescription": "Stem cross-section highlighting the precise interface where vascular cambium separates wood (inside) from bark (outside)."
+        },
+        {
+          "id": "sec-c21",
+          "front": "What is the difference between **inner bark** and **outer bark (rhytidome)**?",
+          "hint": "Think about functional living phloem vs. dead cracked outer layers.",
+          "back": "• **Inner Bark**: Living secondary phloem between the vascular cambium and the innermost functional cork cambium.\n• **Outer Bark (Rhytidome)**: All dead tissues outside the innermost cork cambium (old crushed phloem, cortex, and dead cork layers).",
+          "citation": "Mauseth Ch. 8, p. 577",
+          "tags": [
+            "inner-bark",
+            "outer-bark",
+            "rhytidome"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_25_bark_and_lenticels.jpg",
+          "imageCaption": "🔬 Bark Layers & Rhytidome (Click to zoom 🔍)",
+          "imageDescription": "Trunk section demonstrating shedding, cracking outer bark (rhytidome) separated from living inner bark."
+        },
+        {
+          "id": "sec-c22",
+          "front": "What are **lenticels**, and why are they necessary in woody stems?",
+          "hint": "Pores or raised blisters visible on twigs.",
+          "back": "**Lenticels** are raised pores in the periderm packed with loosely arranged, non-suberized cells.\n• **Why necessary**: Because suberized cork is airtight, lenticels allow **gas exchange ($O_2$ and $CO_2$)** between living stem tissues and the outside air.",
+          "citation": "Mauseth Ch. 8, p. 578",
+          "tags": [
+            "lenticels",
+            "gas-exchange",
+            "periderm"
+          ],
+          "image": "images/bot-1121-secondary-growth/fig_8_25_bark_and_lenticels.jpg",
+          "imageCaption": "🔬 Lenticel Aeration Pore (Click to zoom 🔍)",
+          "imageDescription": "Micrograph of a lenticel showing loosely organized, non-suberized complementary cells providing a channel for gas diffusion."
+        }
+      ],
+      "quizzes": [
+        {
+          "id": "sec-q1",
+          "station": "Station 1: Lateral Meristem Derivatives",
+          "question": "A periclinal division in a fusiform initial of the vascular cambium produces a daughter cell toward the interior of the stem. What tissue will this cell differentiate into?",
+          "options": [
+            "Secondary phloem",
+            "Secondary xylem (wood)",
+            "Phelloderm",
+            "Cortex parenchyma",
+            "Phellem (cork)"
+          ],
+          "correctIndex": 1,
+          "socraticHint": "Remember the spatial rule: xylem is always internal to the cambium; phloem is always external.",
+          "explanation": "The vascular cambium divides periclinally to produce secondary xylem toward the inside of the stem and secondary phloem toward the outside. A daughter cell cut off toward the interior matures into secondary xylem (wood)."
+        },
+        {
+          "id": "sec-q2",
+          "station": "Station 2: Cambial Initials",
+          "question": "Which component of the secondary vascular system is produced directly by ray initials rather than fusiform initials?",
+          "options": [
+            "Tracheids",
+            "Vessel elements",
+            "Xylem and phloem rays",
+            "Phloem fibers",
+            "Sieve-tube elements"
+          ],
+          "correctIndex": 2,
+          "socraticHint": "Ray initials are cuboidal cells that produce the radial (horizontal) transport system.",
+          "explanation": "Ray initials divide to produce the horizontal radial system—specifically xylem rays and phloem rays. Fusiform initials produce the vertical axial system (vessels, tracheids, fibers, sieve tubes)."
+        },
+        {
+          "id": "sec-q3",
+          "station": "Station 3: Growth Ring Identification",
+          "question": "Examining a cross-section of a pine trunk under 100x magnification, you observe an abrupt boundary where large, thin-walled tracheids abruptly sit adjacent to small, thick-walled, compressed tracheids. What does this boundary represent?",
+          "options": [
+            "The boundary between sapwood and heartwood.",
+            "An annual growth ring boundary between late wood of one year and early wood of the next.",
+            "The interface between secondary xylem and vascular cambium.",
+            "A false ring caused by a fungal infection.",
+            "The transition from primary xylem to secondary xylem."
+          ],
+          "correctIndex": 1,
+          "socraticHint": "Early spring growth produces wide lumens; late summer growth produces dense, thick walls.",
+          "explanation": "An annual growth ring boundary is formed by the sharp contrast between the dense, small, thick-walled cells of late wood (summerwood) and the large, wide-lumened cells of early wood (springwood) produced the following spring."
+        },
+        {
+          "id": "sec-q4",
+          "station": "Station 4: Periderm Organization",
+          "question": "What is the correct sequence of periderm layers from the OUTSIDE of the tree moving INWARD?",
+          "options": [
+            "Phelloderm → Phellogen → Phellem",
+            "Phellem (Cork) → Phellogen (Cork Cambium) → Phelloderm",
+            "Phellogen → Phellem → Phelloderm",
+            "Phellem → Phelloderm → Phellogen",
+            "Vascular Cambium → Phellogen → Cork"
+          ],
+          "correctIndex": 1,
+          "socraticHint": "Cork is on the outside protecting the stem; phellogen is in the middle; phelloderm is on the inside.",
+          "explanation": "The periderm consists of: 1) Phellem (cork cells) on the outermost surface, 2) Phellogen (cork cambium) in the middle, and 3) Phelloderm on the innermost side."
+        },
+        {
+          "id": "sec-q5",
+          "station": "Station 5: Wood Physiology & Heartwood",
+          "question": "Why does a tree continue to survive and conduct water normally even if fungi completely rot away the dark heartwood inside its trunk?",
+          "options": [
+            "Heartwood only conducts food, not water.",
+            "Water conduction occurs exclusively in the outer sapwood; heartwood is non-functional for transport.",
+            "The cork cambium takes over water conduction.",
+            "Tyloses in the heartwood produce new water channels.",
+            "Heartwood turns into secondary phloem."
+          ],
+          "correctIndex": 1,
+          "socraticHint": "Which zone of wood is actively conducting sap, and which zone is plugged and dead?",
+          "explanation": "Only the younger, outermost secondary xylem (sapwood) actively conducts water and dissolved minerals. Heartwood is older, non-conducting wood plugged with tyloses, resins, and tannins. Therefore, a hollow tree with rotted heartwood can continue living and transporting water via its sapwood."
+        },
+        {
+          "id": "sec-q6",
+          "station": "Station 6: Bark Anatomy & Girdling",
+          "question": "If a forestry worker 'girdles' a tree by cutting away a complete strip of bark down to the wood, why does the tree eventually die?",
+          "options": [
+            "Water cannot reach the leaves because secondary xylem was removed.",
+            "Photosynthetic sugars produced in the leaves cannot reach the roots because secondary phloem was severed.",
+            "The tree loses all its suberin.",
+            "The apical meristems stop dividing.",
+            "Lenticels can no longer perform photosynthesis."
+          ],
+          "correctIndex": 1,
+          "socraticHint": "Remember that bark includes all tissues outside the vascular cambium, including inner bark.",
+          "explanation": "Bark includes the secondary phloem (inner bark). When a tree is girdled around its entire circumference, the pathway for transporting carbohydrates from leaves down to the roots is completely severed. The roots starve and die, followed by the entire tree."
+        }
+      ]
+    },
+    {
+      "id": "math-number-systems",
+      "course": "MATH 401",
+      "title": "Number Systems & Types of Numbers (Hierarchy & Notation)",
+      "description": "Comprehensive deck covering all major types of numbers and their formal mathematical notation: Natural (ℕ), Whole (W), Integers (ℤ), Rationals (ℚ), Irrationals (ℝ ∖ ℚ), Reals (ℝ), Complex (ℂ), Algebraic (𝔸), Transcendental (𝕋), Primes (ℙ), Quaternions (ℍ), and Modular Rings (ℤ/nℤ).",
+      "source": "Abstract Algebra, Number Theory & Real Analysis Foundations",
+      "flashcards": [
+        {
+          "id": "num-c1",
+          "front": "What does **ℕ** represent, and what is the convention regarding the number **0**?",
+          "hint": "The counting numbers. Different textbooks have two conventions regarding zero.",
+          "back": "**ℕ = Natural Numbers (Counting Numbers)**\n\n• **Standard definition:** `{1, 2, 3, 4, 5, ...}`.\n• **The Zero Debate:**\n  - In number theory and pre-calculus: `ℕ = {1, 2, 3, ...}` (positive integers only).\n  - In set theory and computer science: `0 ∈ ℕ` is often included (`{0, 1, 2, ...}`).\n• **Unambiguous Notation:**\n  - `ℕ*` or `ℕ₁` or `ℤ⁺`: strictly positive `{1, 2, 3, ...}`\n  - `ℕ₀` or `W`: non-negative whole numbers `{0, 1, 2, 3, ...}`.",
+          "citation": "Axiomatic Set Theory (Peano Axioms)",
+          "tags": [
+            "numbers",
+            "naturals",
+            "notation"
+          ]
+        },
+        {
+          "id": "num-c2",
+          "front": "What does **ℤ** represent, why is it symbolized by **Z**, and how are even/odd numbers written?",
+          "hint": "German word for 'numbers'. Evens are multiples of 2.",
+          "back": "**ℤ = Integers (Signed Whole Numbers)**\n\n• **Definition:** `{..., -3, -2, -1, 0, 1, 2, 3, ...}`.\n• **Etymology:** From the German word ***Zahlen*** (meaning \"numbers\"), introduced by David Hilbert and the Bourbaki group.\n• **Subsets & Modifiers:**\n  - `ℤ⁺`: positive integers `{1, 2, 3, ...}` (same as ℕ).\n  - `ℤ⁻`: strictly negative integers `{-1, -2, -3, ...}`.\n  - `ℤ ≥ 0` or `ℤ*`: non-negative integers `{0, 1, 2, ...}`.\n• **Even & Odd Subsets:**\n  - **Even integers:** `2ℤ = {2k | k ∈ ℤ}`\n  - **Odd integers:** `2ℤ + 1 = {2k + 1 | k ∈ ℤ}`.",
+          "citation": "Elementary Number Theory",
+          "tags": [
+            "numbers",
+            "integers",
+            "parity"
+          ]
+        },
+        {
+          "id": "num-c3",
+          "front": "What does **ℚ** represent, how is it formally defined in set-builder notation, and what is its decimal behavior?",
+          "hint": "Symbol Q stands for 'Quotient'. Think about fractions of integers.",
+          "back": "**ℚ = Rational Numbers**\n\n• **Formal Set-Builder Definition:**\n  `ℚ = { p/q | p, q ∈ ℤ, q ≠ 0 }` (where p and q share no common factors in lowest terms).\n• **Etymology:** From the Italian / Latin word ***Quoziente*** (\"Quotient\"), introduced by Giuseppe Peano.\n• **Decimal Characterization:**\n  A real number is in ℚ **if and only if** its decimal representation either:\n  1. **Terminates** (e.g., `3/4 = 0.75`)\n  2. **Repeats indefinitely in a repeating cycle** (e.g., `1/3 = 0.333...` or `1/7 = 0.142857142857...`).",
+          "citation": "Real Analysis (Rudin)",
+          "tags": [
+            "numbers",
+            "rationals",
+            "fractions"
+          ]
+        },
+        {
+          "id": "num-c4",
+          "front": "What are **Irrational Numbers**, what is their formal notation, and what are 4 classic examples?",
+          "hint": "Defined by what they are NOT. Expressed as the set difference of Reals and Rationals.",
+          "back": "**Irrational Numbers (ℝ ∖ ℚ or ℙ / 𝕀)**\n\n• **Definition:** Numbers that **cannot** be written as a ratio of two integers (`p/q`).\n• **Notation:** Most rigorously written as the set difference **`ℝ ∖ ℚ`** (\"Reals minus Rationals\").\n• **Decimal Characterization:** Infinite, **non-repeating**, and **non-terminating** decimals.\n• **Classic Examples:**\n  1. `√2` (Hippasus's classic geometric diagonal of a unit square)\n  2. `π ≈ 3.14159...` (ratio of circle circumference to diameter)\n  3. `e ≈ 2.71828...` (Euler's base of natural logarithms)\n  4. `φ = (1 + √5)/2 ≈ 1.618...` (The Golden Ratio).",
+          "citation": "Principles of Mathematical Analysis",
+          "tags": [
+            "numbers",
+            "irrationals",
+            "set-difference"
+          ]
+        },
+        {
+          "id": "num-c5",
+          "front": "What does **ℝ** represent, and how does it relate to the geometrical concept of the number line?",
+          "hint": "The continuum. Closes all the 'holes' left by the rationals.",
+          "back": "**ℝ = Real Numbers (The Continuum)**\n\n• **Definition:** The union of all rational and irrational numbers (`ℝ = ℚ ∪ (ℝ ∖ ℚ)`).\n• **Geometric Meaning:** Corresponds in a continuous, 1-to-1 bijection with every point along the unbroken geometric **number line**.\n• **The Completeness Axiom:** Unlike ℚ (which has infinite microscopic \"holes\" at every irrational point like √2), ℝ has the property of **completeness**—every bounded non-empty subset of ℝ has a least upper bound (supremum).\n• **Modifiers:**\n  - `ℝ⁺`: strictly positive real numbers `(0, ∞)`\n  - `ℝ⁻`: strictly negative real numbers `(-∞, 0)`\n  - `ℝ*` or `ℝ ∖ {0}`: all non-zero reals.",
+          "citation": "Real Analysis & Topology",
+          "tags": [
+            "numbers",
+            "reals",
+            "continuum"
+          ]
+        },
+        {
+          "id": "num-c6",
+          "front": "What does **ℂ** represent, what is the imaginary unit **i**, and what are the two components of any **z ∈ ℂ**?",
+          "hint": "Extends the real line into a 2D plane to allow square roots of negative numbers.",
+          "back": "**ℂ = Complex Numbers (The Argand Plane)**\n\n• **Formal Definition:** `ℂ = { a + bi | a, b ∈ ℝ, i² = -1 }`.\n• **Imaginary Unit (i):** Defined such that `i = √(-1)`, meaning `i² = -1`.\n• **Two Components of z = a + bi:**\n  - **Real Part:** `Re(z) = a`\n  - **Imaginary Part:** `Im(z) = b` (Note: b is itself a real number!)\n• **Subsets:**\n  - If `b = 0`: z is purely a **Real Number** (`ℝ ⊂ ℂ`).\n  - If `a = 0` and `b ≠ 0`: z is a **Pure Imaginary Number** (`iℝ`).\n• **Fundamental Theorem of Algebra:** Every non-zero polynomial with complex coefficients has at least one root in ℂ.",
+          "citation": "Complex Analysis (Ahlfors)",
+          "tags": [
+            "numbers",
+            "complex",
+            "imaginary"
+          ]
+        },
+        {
+          "id": "num-c7",
+          "front": "What is an **Algebraic Number (𝔸 or Q̄)**, and why is **√2** algebraic while **π** is not?",
+          "hint": "Roots of polynomials with integer/rational coefficients.",
+          "back": "**Algebraic Numbers (𝔸 or Q̄)**\n\n• **Definition:** Any real or complex number that is a root of a non-zero single-variable polynomial with integer (or rational) coefficients:\n  `aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀ = 0` (where each aᵢ ∈ ℤ).\n\n• **Why √2 is Algebraic:** It solves `x² - 2 = 0` (coefficients are 1 and -2, which are integers).\n• **Why i is Algebraic:** It solves `x² + 1 = 0`.\n• **Why all Rationals (ℚ) are Algebraic:** Any fraction `p/q` solves `qx - p = 0`.\n• **Why π is NOT Algebraic:** There is no finite polynomial with integer coefficients that has π as a root!",
+          "citation": "Field Theory & Galois Theory",
+          "tags": [
+            "numbers",
+            "algebraic",
+            "polynomials"
+          ]
+        },
+        {
+          "id": "num-c8",
+          "front": "What is a **Transcendental Number (𝕋)**, and what are the two most famous examples?",
+          "hint": "They 'transcend' the power of algebraic polynomial equations.",
+          "back": "**Transcendental Numbers (𝕋 or ℝ ∖ 𝔸)**\n\n• **Definition:** Any real or complex number that is **NOT algebraic**—meaning it cannot be formed as the root of any polynomial equation with rational coefficients.\n• **Famous Examples:**\n  1. **π ≈ 3.14159...** (Proved transcendental by Ferdinand von Lindemann in 1882, finally proving the ancient impossibility of \"squaring the circle\").\n  2. **e ≈ 2.71828...** (Proved transcendental by Charles Hermite in 1873).\n  3. `2^√2` (Gelfond-Schneider theorem).\n• **Surprising Fact:** Even though they are harder to define individually, **almost all real numbers are transcendental**! (𝔸 is countable, but ℝ is uncountable).",
+          "citation": "Transcendental Number Theory",
+          "tags": [
+            "numbers",
+            "transcendental",
+            "cardinality"
+          ]
+        },
+        {
+          "id": "num-c9",
+          "front": "What does **ℙ** represent, why is the number **1** NOT considered prime, and what is the Fundamental Theorem of Arithmetic?",
+          "hint": "The atomic building blocks of multiplication. One is excluded to preserve unique factorization.",
+          "back": "**ℙ = Prime Numbers**\n\n• **Definition:** An integer `p > 1` whose only positive divisors are 1 and itself (`ℙ = {2, 3, 5, 7, 11, 13, 17, 19, 23, ...}`).\n• **Why 1 is NOT Prime:**\n  If 1 were prime, prime factorization would not be unique (e.g., `6 = 2 · 3 = 1 · 2 · 3 = 1 · 1 · 2 · 3...`).\n• **Fundamental Theorem of Arithmetic:** Every integer greater than 1 can be represented uniquely as a product of prime numbers (up to the order of factors).\n• **Composite Numbers:** Integers greater than 1 that are not prime (`{4, 6, 8, 9, 10, ...}`).",
+          "citation": "Number Theory (Euclid's Elements)",
+          "tags": [
+            "numbers",
+            "primes",
+            "factorization"
+          ]
+        },
+        {
+          "id": "num-c10",
+          "front": "What are **ℍ (The Quaternions)**, who invented them, and what algebraic property do they lose compared to **ℂ**?",
+          "hint": "A 4-dimensional hypercomplex number system carved on Brougham Bridge by Hamilton.",
+          "back": "**ℍ = Quaternions (Hamiltonians)**\n\n• **Definition:** 4-dimensional hypercomplex numbers of the form:\n  `q = a + bi + cj + dk` (where a, b, c, d ∈ ℝ).\n• **Governing Equation:** `i² = j² = k² = ijk = -1` (invented by Sir William Rowan Hamilton in 1843).\n• **What Property They Lose:** **Commutativity of Multiplication!**\n  In quaternions, `i · j = k`, but `j · i = -k` (order matters: `q₁ · q₂ ≠ q₂ · q₁`).\n• **Modern Usage:** Essential in 3D computer graphics, robotics, and aerospace navigation to calculate 3D rotations without \"gimbal lock\".",
+          "citation": "Abstract Algebra & Vector Geometry",
+          "tags": [
+            "numbers",
+            "quaternions",
+            "hypercomplex"
+          ]
+        },
+        {
+          "id": "num-c11",
+          "front": "What does **ℤ/nℤ** (or **ℤₙ**) denote, and when does it become a Field?",
+          "hint": "Clock arithmetic. Remainders when divided by n.",
+          "back": "**ℤ/nℤ (Integers Modulo n)**\n\n• **Definition:** The set of equivalence classes of integers under division by n:\n  `ℤ/nℤ = {0, 1, 2, ..., n - 1}`.\n• **Arithmetic:** Operations are performed normally, then reduced modulo n (e.g., on a 12-hour clock, `9 + 5 ≡ 2 (mod 12)`).\n• **When is it a Field?**\n  - If `n` is composite (like 6), ℤ/6ℤ has zero divisors (`2 · 3 ≡ 0`) and is only a Ring.\n  - If `n` is a **Prime number p**, then **ℤ/pℤ (often written as 𝔽ₚ)** is a **finite field** (every non-zero element has a multiplicative inverse).",
+          "citation": "Modern Algebra (Rings and Fields)",
+          "tags": [
+            "numbers",
+            "modular-arithmetic",
+            "finite-fields"
+          ]
+        },
+        {
+          "id": "num-c12",
+          "front": "What is the complete **Nested Inclusion Hierarchy** of standard numbers from smallest to largest?",
+          "hint": "Chain of subsets: Primes inside Naturals inside Integers...",
+          "back": "**The Universal Number Inclusion Chain:**\n\n```\nℙ ⊂ ℕ ⊂ ℤ ⊂ ℚ ⊂ 𝔸 ⊂ ℝ ⊂ ℂ ⊂ ℍ\n```\n\n• **ℙ (Primes):** `{2, 3, 5, ...}`\n• **ℕ (Naturals):** `{1, 2, 3, ...}`\n• **ℤ (Integers):** adds negative whole numbers and 0\n• **ℚ (Rationals):** adds all fractions `p/q`\n• **𝔸 (Algebraic):** adds radical roots like `√2, ∛5`\n• **ℝ (Reals):** adds transcendental continuous numbers like `π, e`\n• **ℂ (Complex):** adds imaginary dimensions `i = √(-1)`\n• **ℍ (Quaternions):** adds 4D non-commutative dimensions `j, k`.",
+          "citation": "Mathematical Structures Summary",
+          "tags": [
+            "numbers",
+            "hierarchy",
+            "mastery"
+          ]
+        }
+      ],
+      "quizzes": [
+        {
+          "id": "num-q1",
+          "station": "Station 1: Number System Classification",
+          "question": "To which of the following number systems does the number -7/3 belong?",
+          "options": [
+            "ℤ, ℚ, and ℝ",
+            "ℚ, ℝ, and ℂ",
+            "ℕ, ℤ, and ℚ",
+            "ℝ ∖ ℚ (Irrationals)",
+            "ℤ and ℂ only"
+          ],
+          "correctIndex": 1,
+          "socraticHint": "-7/3 is a fraction of two integers. Trace where it sits in the inclusion chain.",
+          "explanation": "-7/3 is a ratio of integers (-7 and 3), so it is in ℚ. Because ℚ ⊂ ℝ ⊂ ℂ, it is also in ℝ and ℂ. It is NOT an integer (so not in ℤ or ℕ)."
+        },
+        {
+          "id": "num-q2",
+          "station": "Station 2: Algebraic vs. Transcendental",
+          "question": "The golden ratio φ = (1 + √5)/2 is an irrational number. Is it Algebraic or Transcendental, and why?",
+          "options": [
+            "Transcendental, because its decimal expansion never terminates or repeats.",
+            "Algebraic, because it satisfies the polynomial equation x² - x - 1 = 0.",
+            "Transcendental, because it contains the irrational square root √5.",
+            "Algebraic, because all real numbers are algebraic.",
+            "Neither, because it belongs to the complex numbers."
+          ],
+          "correctIndex": 1,
+          "socraticHint": "Can you construct a polynomial equation with integer coefficients that has φ as its solution?",
+          "explanation": "If x = (1 + √5)/2, then 2x - 1 = √5. Squaring both sides yields (2x - 1)² = 5, which simplifies to 4x² - 4x - 4 = 0, or x² - x - 1 = 0. Because it is a root of an integer-coefficient polynomial, φ is Algebraic (𝔸), not Transcendental."
+        },
+        {
+          "id": "num-q3",
+          "station": "Station 3: Decimal Expansion Properties",
+          "question": "A student claims that 0.121212... (repeating '12' indefinitely) is an irrational number because it has infinite decimals. Is this claim correct?",
+          "options": [
+            "Yes, because any number with infinitely many decimal places cannot be written as a fraction.",
+            "No, because any repeating decimal is a rational number (in this case, 12/99 = 4/33).",
+            "Yes, because only terminating decimals belong to ℚ.",
+            "No, because 0.121212... is a natural number.",
+            "It depends on the base of the number system."
+          ],
+          "correctIndex": 1,
+          "socraticHint": "Recall the decimal test for ℚ: terminating OR repeating.",
+          "explanation": "A real number is rational (ℚ) if and only if its decimal terminates or repeats. Let x = 0.1212... Then 100x = 12.1212... Subtracting gives 99x = 12, so x = 12/99 = 4/33 ∈ ℚ."
+        },
+        {
+          "id": "num-q4",
+          "station": "Station 4: Non-Commutative Number Fields",
+          "question": "In which of the following number systems is multiplication NOT commutative (meaning a · b ≠ b · a in general)?",
+          "options": [
+            "ℂ (Complex Numbers)",
+            "ℝ (Real Numbers)",
+            "ℤ/5ℤ (Integers modulo 5)",
+            "ℍ (Quaternions)",
+            "ℚ (Rational Numbers)"
+          ],
+          "correctIndex": 3,
+          "socraticHint": "Think about Hamilton's 4D hypercomplex numbers with units i, j, k.",
+          "explanation": "In the Quaternions ℍ, multiplication is non-commutative: i · j = k, but j · i = -k. In ℚ, ℝ, ℂ, and ℤ/nℤ, multiplication is commutative."
+        },
+        {
+          "id": "num-q5",
+          "station": "Station 5: The Cardinality of Transcendentals",
+          "question": "Which of the following statements about the set of Algebraic numbers (𝔸) and Transcendental numbers (𝕋) is TRUE?",
+          "options": [
+            "There are more algebraic numbers than transcendental numbers.",
+            "The algebraic numbers 𝔸 are countable, but the real transcendental numbers are uncountable.",
+            "Both 𝔸 and 𝕋 are finite sets.",
+            "All complex numbers are transcendental.",
+            "π and e are the only transcendental numbers known to exist."
+          ],
+          "correctIndex": 1,
+          "socraticHint": "Georg Cantor proved that polynomial roots can be counted, but the real continuum cannot.",
+          "explanation": "Cantor proved that the set of all polynomials with integer coefficients is countable, making the algebraic numbers 𝔸 countable. However, the real numbers ℝ are uncountable. Therefore, the transcendental numbers ℝ ∖ 𝔸 must be uncountable—meaning almost all real numbers are transcendental!"
+        }
+      ]
+    },
+    {
+      "id": "math-symbols-logic",
+      "course": "MATH 401",
+      "title": "Mathematical Logic, Set Theory & Advanced Notation",
+      "description": "Mastery deck for advanced mathematical symbols: quantifiers (∀, ∃, ∃!), set membership & operations (∈, ∉, ⊆, ⊂, ∖, ∪, ∩), logical connectives (⟹, ⟺), standard number systems (ℕ, ℤ, ℚ, ℝ, ℂ), and calculus/analysis operators (∇, ∂, ∘, :=).",
+      "source": "Advanced Mathematics, Set Theory & Real Analysis Foundations",
+      "flashcards": [
+        {
+          "id": "sym-c1",
+          "front": "What does the symbol **∈** mean, and how is the statement **x ∈ A** read?",
+          "hint": "Derived from the Greek letter epsilon (ϵ) standing for 'element'.",
+          "back": "**∈ means \"Element of\" (or \"in / belongs to\").**\n\n• **Reading:** \"x is an element of A\" or \"x belongs to set A\".\n• **Formal meaning:** Object x is a member of the collection of objects defined as set A.\n• **Example:** `3 ∈ ℤ` (\"3 is an element of the integers\").\n• **Counterpart:** **∉** means \"is not an element of\" (`3.5 ∉ ℤ`).",
+          "citation": "Naive Set Theory (Halmos)",
+          "tags": [
+            "set-theory",
+            "membership",
+            "fundamentals"
+          ]
+        },
+        {
+          "id": "sym-c2",
+          "front": "What is the crucial difference between **x ∈ A** and **{x} ⊆ A**?",
+          "hint": "Think about an individual object vs. a collection holding that object.",
+          "back": "**Element vs. Subset Distinction:**\n\n• **x ∈ A:** x is an *individual element* contained directly inside set A.\n• **{x} ⊆ A:** {x} is a *set (a singleton)* whose elements are all contained in A.\n\n• **Example:** If `A = {1, 2, 3}`:\n  - `1 ∈ A` is **TRUE**\n  - `{1} ∈ A` is **FALSE** (A contains the number 1, not a set containing 1)\n  - `{1} ⊆ A` is **TRUE** (every element of {1} is in A).",
+          "citation": "Foundations of Higher Mathematics",
+          "tags": [
+            "set-theory",
+            "subsets",
+            "logic-trap"
+          ]
+        },
+        {
+          "id": "sym-c3",
+          "front": "What do the symbols **⊆** and **⊂** denote, and how do they differ?",
+          "hint": "Compare them to ≤ (less than or equal to) versus < (strictly less than).",
+          "back": "**Subset vs. Proper (Strict) Subset:**\n\n• **A ⊆ B (Subset):** Every element of A is also in B. A *can* be equal to B (`A ⊆ A` is always true).\n• **A ⊂ B (or A ⊊ B, Proper Subset):** Every element of A is in B, AND there is at least one element in B not in A (`A ≠ B`).\n\n• **Analogy:** `⊆` is like `≤`, while `⊂` is like `<`.",
+          "citation": "Set Theory Foundations",
+          "tags": [
+            "set-theory",
+            "subsets"
+          ]
+        },
+        {
+          "id": "sym-c4",
+          "front": "What does the symbol **∀** represent, and how do you translate **∀x ∈ S, P(x)** into English?",
+          "hint": "An inverted letter 'A' standing for 'ALL'.",
+          "back": "**∀ is the Universal Quantifier (\"For all\" / \"For every\").**\n\n• **Translation:** \"For every x in set S, the property P(x) is true.\"\n• **Truth Condition:** The statement is TRUE only if P(x) holds for *every single* element in S. A single counterexample makes the entire statement FALSE.\n• **Negation Rule:** `¬(∀x, P(x)) ⟺ ∃x, ¬P(x)` (\"The negation of 'all are' is 'there exists at least one that is not'\").",
+          "citation": "Predicate Logic",
+          "tags": [
+            "logic",
+            "quantifiers"
+          ]
+        },
+        {
+          "id": "sym-c5",
+          "front": "What do **∃** and **∃!** represent in mathematical proofs?",
+          "hint": "A backwards letter 'E' standing for 'EXISTS'. The exclamation mark adds uniqueness.",
+          "back": "**Existential Quantifiers:**\n\n• **∃ (\"There exists\"):** At least one element satisfies the condition.\n  - Example: `∃x ∈ ℝ, x² = 2` (\"There exists a real number whose square is 2\").\n• **∃! (\"There exists a UNIQUE\"):** Exactly one element satisfies the condition (one and only one).\n  - Example: `∃!x ∈ ℝ, 2x + 4 = 0` (only `x = -2` works).\n\n• **Negation Rule:** `¬(∃x, P(x)) ⟺ ∀x, ¬P(x)`.",
+          "citation": "Predicate Logic & Proof Writing",
+          "tags": [
+            "logic",
+            "quantifiers",
+            "uniqueness"
+          ]
+        },
+        {
+          "id": "sym-c6",
+          "front": "What does the logical connective **P ⟹ Q** mean, and when is it FALSE?",
+          "hint": "Material implication. Think about a broken contract.",
+          "back": "**P ⟹ Q means \"P implies Q\" (or \"If P, then Q\").**\n\n• **P** is the hypothesis (antecedent); **Q** is the conclusion (consequent).\n• **The ONLY way P ⟹ Q is FALSE:** When P is **TRUE** but Q is **FALSE**.\n\n• **Vacuous Truth:** If P is FALSE, `P ⟹ Q` is automatically **TRUE**, regardless of whether Q is true or false! (e.g., \"If 5 is even, then 2 + 2 = 7\" is logically true).",
+          "citation": "Propositional Calculus",
+          "tags": [
+            "logic",
+            "implication",
+            "truth-tables"
+          ]
+        },
+        {
+          "id": "sym-c7",
+          "front": "What does **P ⟺ Q** mean, and what is its relationship to **P ⟹ Q**?",
+          "hint": "A two-way double arrow. Often abbreviated as 'iff'.",
+          "back": "**P ⟺ Q means \"P is equivalent to Q\" (\"P if and only if Q\", or \"iff\").**\n\n• **Formal Definition:** `(P ⟹ Q) ∧ (Q ⟹ P)`.\n• **Meaning:** P and Q always share the exact same truth value (both true or both false).\n• **In Proofs:** To prove `P ⟺ Q`, you must prove TWO directions: forward (`P ⟹ Q`) and backward (`Q ⟹ P`).",
+          "citation": "Proof Techniques (Direct & Biconditional)",
+          "tags": [
+            "logic",
+            "biconditional",
+            "proofs"
+          ]
+        },
+        {
+          "id": "sym-c8",
+          "front": "Identify the standard Blackboard Bold number systems: **ℕ**, **ℤ**, **ℚ**, **ℝ**, **ℂ**.",
+          "hint": "German 'Zahlen' = numbers; Latin 'Quotient' = ratio.",
+          "back": "**The Standard Number Hierarchy:**\n\n• **ℕ (Natural Numbers):** `{1, 2, 3, ...}` (positive integers, sometimes including 0).\n• **ℤ (Integers):** `{..., -2, -1, 0, 1, 2, ...}` (from German *Zahlen*).\n• **ℚ (Rational Numbers):** Fractions `{p/q | p, q ∈ ℤ, q ≠ 0}` (from *Quotient*).\n• **ℝ (Real Numbers):** All points on the continuous number line (rationals + irrationals like π, √2).\n• **ℂ (Complex Numbers):** Numbers of the form `{a + bi | a, b ∈ ℝ, i² = -1}`.\n\n• **Hierarchy:** `ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ ⊂ ℂ`.",
+          "citation": "Number Theory & Analysis",
+          "tags": [
+            "number-systems",
+            "notation"
+          ]
+        },
+        {
+          "id": "sym-c9",
+          "front": "What does the set difference symbol **∖** (or minus sign **-**) mean in **A ∖ B**?",
+          "hint": "Read as 'without' or 'set-theoretic difference'.",
+          "back": "**A ∖ B (read \"A minus B\" or \"A without B\") is the Set Difference:**\n\n• **Definition:** `{x | x ∈ A and x ∉ B}`.\n• **Meaning:** Take all elements in A and remove any that are also in B.\n• **Common Math Usages:**\n  - `ℝ ∖ {0}`: All real numbers *except zero* (domain of 1/x).\n  - `ℝ ∖ ℚ`: The set of all *irrational numbers*.",
+          "citation": "Set Theory Operations",
+          "tags": [
+            "set-theory",
+            "operations"
+          ]
+        },
+        {
+          "id": "sym-c10",
+          "front": "What is the meaning of the vertical bar **|** (or colon **:**) in set-builder notation `{x ∈ S | P(x)}`?",
+          "hint": "Specifies the filter or condition for membership.",
+          "back": "**| (or :) means \"Such that\" (French: 'tel que').**\n\n• **Full Expression:** `{x ∈ S | P(x)}`\n• **Reading:** \"The set of all x in S *such that* x satisfies condition P(x).\"\n• **Example:** `{x ∈ ℝ | x² - 4 = 0}` denotes the set `{-2, 2}`.\n• **Alternative:** A colon `{x ∈ S : P(x)}` means the exact same thing.",
+          "citation": "Set-Builder Notation",
+          "tags": [
+            "set-theory",
+            "notation"
+          ]
+        },
+        {
+          "id": "sym-c11",
+          "front": "What does **∅** represent, and why is the statement **∅ ⊆ A** true for EVERY set A?",
+          "hint": "The Norwegian letter Ø introduced by André Weil. What elements are inside it?",
+          "back": "**∅ (or {}) is the Empty Set (Null Set).**\n\n• **Definition:** The unique set that contains **no elements** at all (`|∅| = 0`).\n• **Why ∅ ⊆ A is always true:**\n  - By definition, `S ⊆ A` means: \"If `x ∈ S`, then `x ∈ A`\".\n  - Since `x ∈ ∅` is always FALSE (there are no elements in ∅), the implication is **vacuously true** for every possible set A!\n• **Common Trap:** `{∅} ≠ ∅`. `{∅}` is a non-empty set containing one element (the empty set).",
+          "citation": "Axiomatic Set Theory (ZFC)",
+          "tags": [
+            "set-theory",
+            "vacuous-truth"
+          ]
+        },
+        {
+          "id": "sym-c12",
+          "front": "What does the circle symbol **∘** denote in **(f ∘ g)(x)**, and what is its evaluation order?",
+          "hint": "Function composition. Which function gets evaluated first?",
+          "back": "**∘ denotes Function Composition (\"f composed with g\" or \"f circle g\").**\n\n• **Definition:** `(f ∘ g)(x) = f(g(x))`.\n• **Evaluation Order:** **Right-to-left!** First evaluate `g(x)` on input x, then pass the resulting output into `f`.\n• **Calculus Link:** The derivative of `(f ∘ g)(x)` requires the **Chain Rule**: `(f ∘ g)'(x) = f'(g(x)) · g'(x)`.",
+          "citation": "Calculus & Abstract Algebra",
+          "tags": [
+            "functions",
+            "calculus",
+            "composition"
+          ]
+        },
+        {
+          "id": "sym-c13",
+          "front": "What does the symbol **:=** (or **≡**) mean in an equation like **f(x) := x³ - x**?",
+          "hint": "Look at the colon preceding the equal sign. It is not asserting equality; it is declaring it.",
+          "back": "**:= means \"Is Defined As\" (Definitional Equality).**\n\n• **Purpose:** It establishes an assigned definition rather than asserting a factual equation to be solved.\n• **Difference:**\n  - `2x + 1 = 5` is an equation to be solved for x.\n  - `L := lim_{x→a} f(x)` defines the symbol L as shorthand for the limit.\n• **Alternative (≡):** `≡` can mean \"identically equal to\" (`sin²(x) + cos²(x) ≡ 1` for all x) or modular congruence (`a ≡ b (mod n)`).",
+          "citation": "Mathematical Conventions & Notation",
+          "tags": [
+            "notation",
+            "definitions"
+          ]
+        },
+        {
+          "id": "sym-c14",
+          "front": "What does the symbol **∂** (del / curly d) denote in **∂f / ∂x**, and how does it differ from **df / dx**?",
+          "hint": "Introduced by Legendre and Jacobi for multivariable rates of change.",
+          "back": "**∂ denotes a Partial Derivative.**\n\n• **df / dx (Ordinary Derivative):** Used when f is a function of a *single* variable x.\n• **∂f / ∂x (Partial Derivative):** Used when f is a function of *multiple* variables (e.g., `f(x, y, z)`). It measures the rate of change of f with respect to x **while treating all other variables (y and z) as constants**.\n• **Example:** If `f(x, y) = x²y`, then `∂f/∂x = 2xy`, and `∂f/∂y = x²`.",
+          "citation": "Multivariable Calculus (MATH 2263 / MATH 401)",
+          "tags": [
+            "calculus",
+            "multivariable",
+            "derivatives"
+          ]
+        },
+        {
+          "id": "sym-c15",
+          "front": "What does the inverted triangle **∇** (nabla / del) represent when applied to a multivariable scalar function **f**?",
+          "hint": "Named after a Phoenician harp (nabla). Produces a vector of partials.",
+          "back": "**∇f denotes the Gradient of f.**\n\n• **Formula:** `∇f = (∂f/∂x, ∂f/∂y, ∂f/∂z)`.\n• **Two Fundamental Properties:**\n  1. **Direction:** Points in the direction of **greatest rate of increase** of the function f at that point.\n  2. **Magnitude:** `‖∇f‖` equals the maximum directional derivative (the steepness of that increase).\n• **Orthogonality:** `∇f` is always **perpendicular (normal)** to the level curves/surfaces `f(x, y) = c`.",
+          "citation": "Vector Calculus",
+          "tags": [
+            "calculus",
+            "vector-calculus",
+            "gradient"
+          ]
+        },
+        {
+          "id": "sym-c16",
+          "front": "How do you decipher Cauchy's famous rigorous limit definition: **∀ε > 0, ∃δ > 0, ∀x ∈ D (0 < |x - c| < δ ⟹ |f(x) - L| < ε)**?",
+          "hint": "Break down each symbol: For every epsilon, there exists a delta, such that...",
+          "back": "**The Epsilon-Delta Limit Definition (lim_{x→c} f(x) = L):**\n\n• **∀ε > 0:** \"For every positive tolerance ε (no matter how tiny),\"\n• **∃δ > 0:** \"there exists a corresponding positive distance δ,\"\n• **such that if:** `0 < |x - c| < δ` (x is within δ distance of c, but not equal to c),\n• **⟹ (then):** `|f(x) - L| < ε` (the function value f(x) is guaranteed to stay within ε of the limit L).\n\n• **Core Concept:** You name the error bound (ε), and I can always find an input radius (δ) tight enough to satisfy it.",
+          "citation": "Real Analysis & Rigorous Calculus",
+          "tags": [
+            "analysis",
+            "limits",
+            "epsilon-delta"
+          ]
+        }
+      ],
+      "quizzes": [
+        {
+          "id": "sym-q1",
+          "station": "Station 1: Set Membership vs. Inclusion",
+          "question": "Let set S = { 2, {2}, 4 }. Which of the following statements is mathematically FALSE?",
+          "options": [
+            "2 ∈ S",
+            "{2} ∈ S",
+            "{2} ⊆ S",
+            "{{2}} ⊆ S",
+            "{4} ∈ S"
+          ],
+          "correctIndex": 4,
+          "socraticHint": "Carefully distinguish between an element being directly inside S versus a set constructed from elements in S.",
+          "explanation": "{4} is a set containing the number 4. While 4 ∈ S is true, the set {4} is NOT an element of S, so {4} ∈ S is FALSE (it should be {4} ⊆ S). Meanwhile, 2 ∈ S is true, {2} ∈ S is true (it is explicitly listed), {2} ⊆ S is true (since 2 ∈ S), and {{2}} ⊆ S is true (since {2} ∈ S)."
+        },
+        {
+          "id": "sym-q2",
+          "station": "Station 2: Truth Values of Implication",
+          "question": "Consider the mathematical statement: \"If 5 is an even number, then 2 + 2 = 7.\" What is the truth value of this statement in formal logic?",
+          "options": [
+            "FALSE, because 2 + 2 does not equal 7.",
+            "FALSE, because both the premise and conclusion are false.",
+            "TRUE, because an implication with a false premise is vacuously true.",
+            "UNDEFINED, because 5 is not an even number.",
+            "PARADOXICAL, because mathematical falsehoods cannot imply anything."
+          ],
+          "correctIndex": 2,
+          "socraticHint": "Recall the truth table for P ⟹ Q. When is an implication false?",
+          "explanation": "In propositional logic, P ⟹ Q is false ONLY when P is true and Q is false. When the hypothesis P is false, the implication is automatically TRUE (known as vacuous truth)."
+        },
+        {
+          "id": "sym-q3",
+          "station": "Station 3: Number System Operations",
+          "question": "What set of numbers is described by the expression ℤ ∖ ℕ (where ℕ = {1, 2, 3, ...})?",
+          "options": [
+            "The set of all rational fractions {p/q}.",
+            "{0, -1, -2, -3, -4, ...} (zero and all negative integers)",
+            "The empty set ∅.",
+            "{-1, -2, -3, -4, ...} (strictly negative integers only)",
+            "The set of all irrational numbers."
+          ],
+          "correctIndex": 1,
+          "socraticHint": "The backslash denotes set difference: take all integers and remove the positive natural numbers.",
+          "explanation": "ℤ contains all positive integers, negative integers, and zero. Subtracting ℕ = {1, 2, 3, ...} leaves zero and all negative integers: {0, -1, -2, -3, ...}."
+        },
+        {
+          "id": "sym-q4",
+          "station": "Station 4: Quantifier Negation",
+          "question": "What is the logical negation of the proposition: \"∀x ∈ ℝ, x² ≥ 0\"?",
+          "options": [
+            "∀x ∈ ℝ, x² < 0",
+            "∃x ∈ ℝ, x² ≤ 0",
+            "∃x ∈ ℝ, x² < 0",
+            "∀x ∉ ℝ, x² < 0",
+            "¬∃x ∈ ℝ, x² ≥ 0"
+          ],
+          "correctIndex": 2,
+          "socraticHint": "Negating ∀ turns it into ∃, and the interior statement must be negated.",
+          "explanation": "To disprove that \"all x have property P\", you only need to show that \"there exists at least one x that does NOT have property P\". The strict opposite of x² ≥ 0 is x² < 0, so the negation is ∃x ∈ ℝ, x² < 0."
+        },
+        {
+          "id": "sym-q5",
+          "station": "Station 5: Vector Calculus Gradient",
+          "question": "For a scalar potential function f(x, y), what does the geometric vector ∇f(x₀, y₀) signify?",
+          "options": [
+            "The direction tangent to the level curve f(x, y) = c.",
+            "The direction of steepest descent (rate of fastest decrease).",
+            "A scalar quantity representing the curvature of the graph.",
+            "The direction of greatest rate of increase, perpendicular to the level curve.",
+            "The second derivative test matrix."
+          ],
+          "correctIndex": 3,
+          "socraticHint": "Nabla creates the gradient vector (∂f/∂x, ∂f/∂y). Consider how it points relative to elevation contour lines.",
+          "explanation": "The gradient ∇f points directly in the direction of greatest instantaneous rate of increase (steepest ascent) and is orthogonal (normal/perpendicular) to the level curve at that point."
+        },
+        {
+          "id": "sym-q6",
+          "station": "Station 6: Definitional Uniqueness",
+          "question": "Which of the following statements accurately uses the uniqueness quantifier ∃! ?",
+          "options": [
+            "∃!x ∈ ℝ, x² = 9",
+            "∃!x ∈ ℝ, x³ = 8",
+            "∃!x ∈ ℝ, sin(x) = 0",
+            "∃!x ∈ ℝ, |x| = 5",
+            "∃!x ∈ ℝ, x² = -1"
+          ],
+          "correctIndex": 1,
+          "socraticHint": "∃! requires that there is ONE AND ONLY ONE real solution.",
+          "explanation": "For x³ = 8 in the real numbers, x = 2 is the single, unique real solution. For x² = 9, there are two solutions (3 and -3). For |x| = 5, there are two solutions (5 and -5). For sin(x) = 0, there are infinitely many solutions. For x² = -1, there are no real solutions."
+        }
+      ]
+    },
+    {
+      "id": "math-1151-core",
+      "course": "MATH-1151",
+      "title": "Calculus: Limits & Derivatives Core",
+      "description": "Fundamental limit definitions, continuity, limit laws, and derivative interpretations.",
+      "source": "MATH-1151 Syllabus & Exercises",
+      "flashcards": [
+        {
+          "id": "math-c1",
+          "front": "What are the three conditions required for a function f(x) to be continuous at x = c?",
+          "hint": "Think about existence of the point, existence of the limit, and their relationship.",
+          "back": "1. **f(c) is defined** (c is in the domain).\n2. **lim_{x→c} f(x) exists** (left and right limits are equal).\n3. **lim_{x→c} f(x) = f(c)**.",
+          "citation": "MATH-1151 Lecture 2",
+          "tags": [
+            "continuity",
+            "limits"
+          ]
+        },
+        {
+          "id": "math-c2",
+          "front": "State the limit definition of the derivative f'(x).",
+          "hint": "Difference quotient as the interval h approaches 0.",
+          "back": "**f'(x) = lim_{h→0} [f(x + h) - f(x)] / h**, provided this limit exists.",
+          "citation": "MATH-1151 Lecture 4",
+          "tags": [
+            "derivative",
+            "definition"
+          ]
+        }
+      ],
+      "quizzes": [
+        {
+          "id": "math-q1",
+          "question": "If lim_{x→3^-} f(x) = 5 and lim_{x→3^+} f(x) = 5, but f(3) = 2, what type of discontinuity occurs at x = 3?",
+          "options": [
+            "Jump discontinuity",
+            "Removable discontinuity",
+            "Infinite discontinuity",
+            "Essential oscillation"
+          ],
+          "correctIndex": 1,
+          "explanation": "Because the two-sided limit exists (lim_{x→3} f(x) = 5) but does not equal f(3), this is a removable discontinuity (a 'hole' with a displaced point).",
+          "socraticHint": "Do the two sides approach the same finite value?",
+          "citation": "MATH-1151 Review Set"
+        }
+      ]
+    },
+    {
+      "id": "stat-1510-core",
+      "course": "STAT-1510",
+      "title": "Statistics & Probability Foundations",
+      "description": "Random variables, expected values, standard deviation, and Central Limit Theorem.",
+      "source": "STAT TEXTBOOK.pdf",
+      "flashcards": [
+        {
+          "id": "stat-c1",
+          "front": "What does the Central Limit Theorem (CLT) state regarding the distribution of sample means?",
+          "hint": "What shape does x̄ take as sample size n becomes moderately large (n ≥ 30)?",
+          "back": "For any population with mean μ and standard deviation σ, the sampling distribution of the sample mean **x̄ approaches a normal distribution N(μ, σ/√n)** as sample size n increases (typically n ≥ 30), regardless of the original population's shape.",
+          "citation": "STAT TEXTBOOK.pdf Ch. 7",
+          "tags": [
+            "CLT",
+            "distributions"
+          ]
+        }
+      ],
+      "quizzes": [
+        {
+          "id": "stat-q1",
+          "question": "If X has variance Var(X) = 16, what is the standard deviation of the sample mean for a random sample of size n = 64?",
+          "options": [
+            "0.50",
+            "2.00",
+            "0.25",
+            "4.00"
+          ],
+          "correctIndex": 0,
+          "explanation": "Standard deviation of X is σ = √16 = 4. The standard error of the sample mean is σ / √n = 4 / √64 = 4 / 8 = 0.5.",
+          "socraticHint": "First find σ by taking the square root of variance, then divide by √n.",
+          "citation": "STAT TEXTBOOK.pdf Ch. 7"
+        }
+      ]
+    }
+  ]
+}

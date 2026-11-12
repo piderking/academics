@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22273243-3cd0-4bd7-936c-bb4e81d21758</dc:identifier>
+        <dc:title>Botany</dc:title>
+        <dc:creator opf:file-as="Mauseth, James D." opf:role="aut">James D. Mauseth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-05T22:00:00+00:00</dc:date>
+        <dc:publisher>Jones &amp; Bartlett Learning</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01HTURXIA</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2026-08-19T18:14:59.944046+00:00"/>
+        <meta name="calibre:title_sort" content="Botany"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
